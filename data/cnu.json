@@ -1,0 +1,5600 @@
+{
+  "meta": {
+    "region_id": "cnu",
+    "name": "嘉藥",
+    "title": "嘉藥午餐吃什麼",
+    "subtitle": "以嘉藥校門口為中心，騎車約 10 分鐘／3 公里內",
+    "location_label": "台南仁德・嘉南藥理大學",
+    "center": {
+      "name": "嘉南藥理大學",
+      "address": "台南市仁德區二仁路一段60號",
+      "lat": 22.9222593,
+      "lon": 120.2276409
+    },
+    "radius_km": 3.0,
+    "meals": [
+      "lunch"
+    ],
+    "meal_labels": {
+      "lunch": "午餐"
+    },
+    "collected_at": "2026-11-25",
+    "timezone": "Asia/Taipei",
+    "count": 104,
+    "notes": [
+      "中心點為開放街圖 Nominatim 所定位的嘉南藥理大學（二仁路一段60號）。",
+      "距離以直線估算；騎車分鐘數以平均 25 km/h（含紅綠燈）四捨五入，最少 1 分鐘。",
+      "Google 評分、評論數、價位僅在公開地圖／食記有載明時填入，查不到則留空或標「未知」。",
+      "Google Maps 連結為官方搜尋連結（店名＋地址），不是 Places API 的 place_id 深連結（此環境未安裝 PlacesSearch 連接器）。",
+      "部分門牌在開放街圖沒有精確點位，座標以同路近門牌內插或同棟已知點估算，資料中有 coord_note。",
+      "未列入已有歇業資訊的店家：水餃之家（2021 年關店消息）、禾糖米食小館（商業登記 2023-06-07 歇業）。",
+      "未列入便利商店與超市。中山路家樂福仁德店、85度C 仁德店因超過 3 公里未收入。",
+      "口味、份量、冷熱、飯麵等標籤依種類與店名推論，僅供推薦打分，不是菜單保證。"
+    ]
+  },
+  "restaurants": [
+    {
+      "id": "r001",
+      "name": "班恩便當（嘉藥店）",
+      "categories": [
+        "便當"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.8,
+      "review_count": 5,
+      "address": "台南市仁德區二仁路一段60號",
+      "lat": 22.92053,
+      "lon": 120.22821,
+      "distance_km": 0.2,
+      "scooter_minutes": 1,
+      "phone": null,
+      "hours": "週一至週五 10:30–18:30；週六至週日公休",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%8F%AD%E6%81%A9%E4%BE%BF%E7%95%B6%EF%BC%88%E5%98%89%E8%97%A5%E5%BA%97%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E4%BB%81%E8%B7%AF%E4%B8%80%E6%AE%B560%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "重鹹"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "飯"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner"
+      ],
+      "default_distance_km": 0.2,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r002",
+      "name": "鮮豆屋（嘉藥店）",
+      "categories": [
+        "甜點",
+        "豆花剉冰"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.0,
+      "review_count": 15,
+      "address": "台南市仁德區二仁路一段60號S棟B1",
+      "lat": 22.92047,
+      "lon": 120.22803,
+      "distance_km": 0.2,
+      "scooter_minutes": 1,
+      "phone": "06-266-7059",
+      "hours": "週一至週四 10:30–19:00；週五 10:30–18:00；週六至週日公休",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%AE%AE%E8%B1%86%E5%B1%8B%EF%BC%88%E5%98%89%E8%97%A5%E5%BA%97%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E4%BB%81%E8%B7%AF%E4%B8%80%E6%AE%B560%E8%99%9FS%E6%A3%9FB1",
+      "source": "maps",
+      "flavors": [
+        "清淡",
+        "甜"
+      ],
+      "portion": [
+        "小",
+        "中"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner"
+      ],
+      "default_distance_km": 0.2,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r003",
+      "name": "活力麵館（嘉藥店）",
+      "categories": [
+        "麵食"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.2,
+      "review_count": 9,
+      "address": "台南市仁德區中正路一段（學生活動中心）",
+      "lat": 22.92029,
+      "lon": 120.22798,
+      "distance_km": 0.22,
+      "scooter_minutes": 1,
+      "phone": "06-266-4828",
+      "hours": null,
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%B4%BB%E5%8A%9B%E9%BA%B5%E9%A4%A8%EF%BC%88%E5%98%89%E8%97%A5%E5%BA%97%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B5%EF%BC%88%E5%AD%B8%E7%94%9F%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%EF%BC%89",
+      "source": "maps",
+      "flavors": [
+        "重鹹",
+        "湯湯水水"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "麵"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch"
+      ],
+      "default_distance_km": 0.22,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r004",
+      "name": "顏太煮奶茶（仁德嘉藥店）",
+      "categories": [
+        "飲料"
+      ],
+      "price_level": "$",
+      "price_display": "$",
+      "rating": 4.9,
+      "review_count": 865,
+      "address": "台南市仁德區二仁路一段62號",
+      "lat": 22.921,
+      "lon": 120.22522,
+      "distance_km": 0.28,
+      "scooter_minutes": 1,
+      "phone": "06-366-1911",
+      "hours": "週一至週五 09:00–20:30；週六至週日 09:30–20:30",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%A1%8F%E5%A4%AA%E7%85%AE%E5%A5%B6%E8%8C%B6%EF%BC%88%E4%BB%81%E5%BE%B7%E5%98%89%E8%97%A5%E5%BA%97%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E4%BB%81%E8%B7%AF%E4%B8%80%E6%AE%B562%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "甜"
+      ],
+      "portion": [
+        "小"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner"
+      ],
+      "default_distance_km": 0.28,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r005",
+      "name": "可不可熟成茶行（台南仁德店）",
+      "categories": [
+        "飲料"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 3.7,
+      "review_count": 98,
+      "address": "台南市仁德區二仁路一段70之1號",
+      "lat": 22.92139,
+      "lon": 120.22494,
+      "distance_km": 0.29,
+      "scooter_minutes": 1,
+      "phone": "06-266-7001",
+      "hours": "週一至週五 09:00–21:00；週六至週日 10:00–21:00",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8F%AF%E4%B8%8D%E5%8F%AF%E7%86%9F%E6%88%90%E8%8C%B6%E8%A1%8C%EF%BC%88%E5%8F%B0%E5%8D%97%E4%BB%81%E5%BE%B7%E5%BA%97%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E4%BB%81%E8%B7%AF%E4%B8%80%E6%AE%B570%E4%B9%8B1%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "甜"
+      ],
+      "portion": [
+        "小"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 0.29,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r006",
+      "name": "台一炸雞（嘉藥二仁店）",
+      "categories": [
+        "鹹酥雞",
+        "小吃"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": null,
+      "review_count": null,
+      "address": "台南市仁德區二仁路一段64號",
+      "lat": 22.9210782,
+      "lon": 120.2250865,
+      "distance_km": 0.29,
+      "scooter_minutes": 1,
+      "phone": "06-366-1911",
+      "hours": "14:00–20:00（週六、週日公休）",
+      "hours_note": "與青南街另一家「台一炸雞」不是同一間，未混用對方評分",
+      "coord_note": null,
+      "coord_source": "nominatim_house",
+      "open_at_lunch": false,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%80%E7%82%B8%E9%9B%9E%EF%BC%88%E5%98%89%E8%97%A5%E4%BA%8C%E4%BB%81%E5%BA%97%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E4%BB%81%E8%B7%AF%E4%B8%80%E6%AE%B564%E8%99%9F",
+      "source": "cnu",
+      "flavors": [
+        "重鹹",
+        "炸物"
+      ],
+      "portion": [
+        "中"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人",
+        "適合多人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "dinner"
+      ],
+      "default_distance_km": 0.29,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r007",
+      "name": "美食廉早餐店",
+      "categories": [
+        "早午餐"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": null,
+      "review_count": null,
+      "address": "台南市仁德區二仁路一段64號",
+      "lat": 22.9210782,
+      "lon": 120.2250865,
+      "distance_km": 0.29,
+      "scooter_minutes": 1,
+      "phone": null,
+      "hours": null,
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "nominatim_house",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%BE%8E%E9%A3%9F%E5%BB%89%E6%97%A9%E9%A4%90%E5%BA%97%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E4%BB%81%E8%B7%AF%E4%B8%80%E6%AE%B564%E8%99%9F",
+      "source": "cnu",
+      "flavors": [
+        "清淡"
+      ],
+      "portion": [
+        "中"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "breakfast",
+        "lunch"
+      ],
+      "default_distance_km": 0.29,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r008",
+      "name": "進堂美食館",
+      "categories": [
+        "便當",
+        "小吃"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": null,
+      "review_count": null,
+      "address": "台南市仁德區二仁路一段70-1號",
+      "lat": 22.92139,
+      "lon": 120.22494,
+      "distance_km": 0.29,
+      "scooter_minutes": 1,
+      "phone": "0909-025-879",
+      "hours": "11:00–14:00、17:00–20:00（週日公休）",
+      "hours_note": "",
+      "coord_note": "依同路近門牌 可不可熟成茶行（台南仁德店）（70）與 可不可熟成茶行（台南仁德店）（70）內插估算",
+      "coord_source": "street_estimate",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%80%B2%E5%A0%82%E7%BE%8E%E9%A3%9F%E9%A4%A8%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E4%BB%81%E8%B7%AF%E4%B8%80%E6%AE%B570-1%E8%99%9F",
+      "source": "cnu",
+      "flavors": [
+        "重鹹"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "飯",
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner"
+      ],
+      "default_distance_km": 0.29,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r009",
+      "name": "歐兔啡食館（台南嘉藥館）",
+      "categories": [
+        "早午餐",
+        "咖啡廳",
+        "火鍋",
+        "美式"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.3,
+      "review_count": 429,
+      "address": "台南市仁德區二仁路一段82-1號",
+      "lat": 22.92164,
+      "lon": 120.22482,
+      "distance_km": 0.3,
+      "scooter_minutes": 1,
+      "phone": "06-266-1109",
+      "hours": "每日 11:00–20:00",
+      "hours_note": "評分與評論數、營業時間引自整理 Google 評論的公開食記（愛玩記）；學校名錄另寫營業至 21:00",
+      "coord_note": "依同路近門牌 自在軒（二仁路）（80）與 友樂町火鍋小賣所（92）內插估算",
+      "coord_source": "street_estimate",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%AD%90%E5%85%94%E5%95%A1%E9%A3%9F%E9%A4%A8%EF%BC%88%E5%8F%B0%E5%8D%97%E5%98%89%E8%97%A5%E9%A4%A8%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E4%BB%81%E8%B7%AF%E4%B8%80%E6%AE%B582-1%E8%99%9F",
+      "source": "review-site+cnu",
+      "flavors": [
+        "清淡",
+        "重鹹",
+        "甜",
+        "炸物",
+        "湯湯水水"
+      ],
+      "portion": [
+        "小",
+        "中",
+        "大",
+        "超大"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人",
+        "適合多人"
+      ],
+      "speed": [
+        "快速",
+        "普通",
+        "需等待"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "default_distance_km": 0.3,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r010",
+      "name": "自在軒（二仁路）",
+      "categories": [
+        "飲料",
+        "麵食",
+        "小吃"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": null,
+      "review_count": null,
+      "address": "台南市仁德區二仁路一段80號",
+      "lat": 22.9215985,
+      "lon": 120.2248504,
+      "distance_km": 0.3,
+      "scooter_minutes": 1,
+      "phone": "06-266-6333",
+      "hours": "08:00–21:30",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "nominatim_house",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%87%AA%E5%9C%A8%E8%BB%92%EF%BC%88%E4%BA%8C%E4%BB%81%E8%B7%AF%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E4%BB%81%E8%B7%AF%E4%B8%80%E6%AE%B580%E8%99%9F",
+      "source": "cnu",
+      "flavors": [
+        "重鹹",
+        "甜",
+        "湯湯水水"
+      ],
+      "portion": [
+        "小",
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "麵",
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速",
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 0.3,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r011",
+      "name": "友樂町火鍋小賣所",
+      "categories": [
+        "火鍋"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.0,
+      "review_count": 416,
+      "address": "台南市仁德區二仁路一段92號",
+      "lat": 22.92182,
+      "lon": 120.22468,
+      "distance_km": 0.31,
+      "scooter_minutes": 1,
+      "phone": "06-366-2022",
+      "hours": "週一至週五 16:30–22:30；週六至週日 11:00–14:00（週末有供午餐）",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": "weekend_only",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8F%8B%E6%A8%82%E7%94%BA%E7%81%AB%E9%8D%8B%E5%B0%8F%E8%B3%A3%E6%89%80%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E4%BB%81%E8%B7%AF%E4%B8%80%E6%AE%B592%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "重鹹",
+        "湯湯水水"
+      ],
+      "portion": [
+        "大",
+        "超大"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合多人"
+      ],
+      "speed": [
+        "需等待"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 0.31,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r012",
+      "name": "親親烘焙屋",
+      "categories": [
+        "麵包烘焙",
+        "蛋糕",
+        "甜點"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 3.9,
+      "review_count": 68,
+      "address": "台南市仁德區保安路一段15號",
+      "lat": 22.9230094,
+      "lon": 120.2247289,
+      "distance_km": 0.31,
+      "scooter_minutes": 1,
+      "phone": null,
+      "hours": null,
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "nominatim_house",
+      "open_at_lunch": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%A6%AA%E8%A6%AA%E7%83%98%E7%84%99%E5%B1%8B%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BF%9D%E5%AE%89%E8%B7%AF%E4%B8%80%E6%AE%B515%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "甜"
+      ],
+      "portion": [
+        "小",
+        "中"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人",
+        "適合多人"
+      ],
+      "speed": [
+        "快速",
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch"
+      ],
+      "default_distance_km": 0.31,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r013",
+      "name": "呼嚕嚕 自煮拉麵24H",
+      "categories": [
+        "韓式",
+        "麵食"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 5.0,
+      "review_count": 3384,
+      "address": "台南市仁德區二仁路一段167號",
+      "lat": 22.92082,
+      "lon": 120.22479,
+      "distance_km": 0.33,
+      "scooter_minutes": 1,
+      "phone": null,
+      "hours": "每日 11:00–02:00",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%91%BC%E5%9A%95%E5%9A%95%20%E8%87%AA%E7%85%AE%E6%8B%89%E9%BA%B524H%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E4%BB%81%E8%B7%AF%E4%B8%80%E6%AE%B5167%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "重鹹",
+        "辣",
+        "湯湯水水"
+      ],
+      "portion": [
+        "中",
+        "大",
+        "超大"
+      ],
+      "meal_types": [
+        "麵",
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人",
+        "適合多人"
+      ],
+      "speed": [
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 0.33,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r014",
+      "name": "品甜紅豆餅",
+      "categories": [
+        "甜點"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": null,
+      "review_count": null,
+      "address": "台南市仁德區二仁路一段177號",
+      "lat": 22.9209479,
+      "lon": 120.2247541,
+      "distance_km": 0.33,
+      "scooter_minutes": 1,
+      "phone": "0973-139-818",
+      "hours": "11:00–18:00（週一至週六；週日公休）",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "nominatim_house",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%93%81%E7%94%9C%E7%B4%85%E8%B1%86%E9%A4%85%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E4%BB%81%E8%B7%AF%E4%B8%80%E6%AE%B5177%E8%99%9F",
+      "source": "cnu",
+      "flavors": [
+        "甜"
+      ],
+      "portion": [
+        "小"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner"
+      ],
+      "default_distance_km": 0.33,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r015",
+      "name": "小平飯館",
+      "categories": [
+        "便當"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 3.6,
+      "review_count": 197,
+      "address": "台南市仁德區二仁路一段175-1號",
+      "lat": 22.92092,
+      "lon": 120.22476,
+      "distance_km": 0.33,
+      "scooter_minutes": 1,
+      "phone": "0975-758-018",
+      "hours": "11:00–14:00、17:00–20:00",
+      "hours_note": "",
+      "coord_note": "依同路近門牌 呼嚕嚕 自煮拉麵24H（167）與 品甜紅豆餅（177）內插估算",
+      "coord_source": "street_estimate",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E5%B9%B3%E9%A3%AF%E9%A4%A8%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E4%BB%81%E8%B7%AF%E4%B8%80%E6%AE%B5175-1%E8%99%9F",
+      "source": "maps+cnu",
+      "flavors": [
+        "重鹹"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "飯"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner"
+      ],
+      "default_distance_km": 0.33,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r016",
+      "name": "鮮茶道（仁德嘉藥店）",
+      "categories": [
+        "飲料"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 3.4,
+      "review_count": 27,
+      "address": "台南市仁德區二仁路一段165-2號",
+      "lat": 22.92099,
+      "lon": 120.22473,
+      "distance_km": 0.33,
+      "scooter_minutes": 1,
+      "phone": "06-266-0037",
+      "hours": "08:00–22:00",
+      "hours_note": "評分引自 Fonfood 所載 Google 評價，時間較舊；營業時間依學校名錄",
+      "coord_note": "依同路近門牌 茶之魔手（二仁店）（142）與 呼嚕嚕 自煮拉麵24H（167）內插估算",
+      "coord_source": "street_estimate",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%AE%AE%E8%8C%B6%E9%81%93%EF%BC%88%E4%BB%81%E5%BE%B7%E5%98%89%E8%97%A5%E5%BA%97%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E4%BB%81%E8%B7%AF%E4%B8%80%E6%AE%B5165-2%E8%99%9F",
+      "source": "fonfood+cnu",
+      "flavors": [
+        "甜"
+      ],
+      "portion": [
+        "小"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 0.33,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r017",
+      "name": "麥當勞（仁德二仁店）",
+      "categories": [
+        "速食",
+        "美式",
+        "咖啡廳",
+        "甜點"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 3.8,
+      "review_count": 2394,
+      "address": "台南市仁德區二仁路一段120號",
+      "lat": 22.92242,
+      "lon": 120.22434,
+      "distance_km": 0.34,
+      "scooter_minutes": 1,
+      "phone": "06-266-3621",
+      "hours": "每日 04:00–03:00（McCafé 約 07:00–22:00）",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%BA%A5%E7%95%B6%E5%8B%9E%EF%BC%88%E4%BB%81%E5%BE%B7%E4%BA%8C%E4%BB%81%E5%BA%97%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E4%BB%81%E8%B7%AF%E4%B8%80%E6%AE%B5120%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "清淡",
+        "重鹹",
+        "甜",
+        "炸物"
+      ],
+      "portion": [
+        "小",
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人",
+        "適合多人"
+      ],
+      "speed": [
+        "快速",
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 0.34,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r018",
+      "name": "小比比鹹水雞",
+      "categories": [
+        "小吃"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": null,
+      "review_count": null,
+      "address": "台南市仁德區二仁路一段211-6號",
+      "lat": 22.9220426,
+      "lon": 120.2242027,
+      "distance_km": 0.35,
+      "scooter_minutes": 1,
+      "phone": "0902-106-828",
+      "hours": "17:00–23:00（週日～週五；週六公休）",
+      "hours_note": null,
+      "coord_note": "座標取自同門牌區間的 211 之 7 號",
+      "coord_source": "nominatim_house",
+      "open_at_lunch": false,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E6%AF%94%E6%AF%94%E9%B9%B9%E6%B0%B4%E9%9B%9E%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E4%BB%81%E8%B7%AF%E4%B8%80%E6%AE%B5211-6%E8%99%9F",
+      "source": "cnu",
+      "flavors": [
+        "重鹹"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人",
+        "適合多人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 0.35,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r019",
+      "name": "龍鳳香滷味",
+      "categories": [
+        "滷味"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": null,
+      "review_count": null,
+      "address": "台南市仁德區中正路一段69號",
+      "lat": 22.919189,
+      "lon": 120.2284037,
+      "distance_km": 0.35,
+      "scooter_minutes": 1,
+      "phone": "0985-872-098",
+      "hours": "11:00–21:00（週日公休）",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "nominatim_house",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%BE%8D%E9%B3%B3%E9%A6%99%E6%BB%B7%E5%91%B3%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B569%E8%99%9F",
+      "source": "cnu",
+      "flavors": [
+        "重鹹",
+        "辣",
+        "湯湯水水"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人",
+        "適合多人"
+      ],
+      "speed": [
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 0.35,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r020",
+      "name": "丹丹滷味",
+      "categories": [
+        "滷味"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.3,
+      "review_count": 121,
+      "address": "台南市仁德區二行一路189號",
+      "lat": 22.92001,
+      "lon": 120.22507,
+      "distance_km": 0.36,
+      "scooter_minutes": 1,
+      "phone": "06-266-9223",
+      "hours": "週一至週五、週日 11:00–21:00；週六公休",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%B9%E4%B8%B9%E6%BB%B7%E5%91%B3%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E8%A1%8C%E4%B8%80%E8%B7%AF189%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "重鹹",
+        "辣",
+        "湯湯水水"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人",
+        "適合多人"
+      ],
+      "speed": [
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 0.36,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r021",
+      "name": "味家香烤鴨",
+      "categories": [
+        "便當"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": null,
+      "review_count": null,
+      "address": "台南市仁德區二仁路一段58-6號",
+      "lat": 22.91948,
+      "lon": 120.22585,
+      "distance_km": 0.36,
+      "scooter_minutes": 1,
+      "phone": "06-266-4255",
+      "hours": null,
+      "hours_note": "",
+      "coord_note": "依同路近門牌 玖月咖啡 Sep. Coffee（相差約 0 號）估算",
+      "coord_source": "street_estimate",
+      "open_at_lunch": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%91%B3%E5%AE%B6%E9%A6%99%E7%83%A4%E9%B4%A8%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E4%BB%81%E8%B7%AF%E4%B8%80%E6%AE%B558-6%E8%99%9F",
+      "source": "cnu",
+      "flavors": [
+        "重鹹"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "飯"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch"
+      ],
+      "default_distance_km": 0.36,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r022",
+      "name": "巧沛東方美",
+      "categories": [
+        "早午餐"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 3.9,
+      "review_count": 8,
+      "address": "台南市仁德區二仁路一段58-4號",
+      "lat": 22.91948,
+      "lon": 120.22585,
+      "distance_km": 0.36,
+      "scooter_minutes": 1,
+      "phone": "06-266-1737",
+      "hours": "06:30–13:00",
+      "hours_note": "",
+      "coord_note": "依同路近門牌 玖月咖啡 Sep. Coffee（相差約 0 號）估算",
+      "coord_source": "street_estimate",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B7%A7%E6%B2%9B%E6%9D%B1%E6%96%B9%E7%BE%8E%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E4%BB%81%E8%B7%AF%E4%B8%80%E6%AE%B558-4%E8%99%9F",
+      "source": "maps+cnu",
+      "flavors": [
+        "清淡"
+      ],
+      "portion": [
+        "中"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "breakfast",
+        "lunch"
+      ],
+      "default_distance_km": 0.36,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r023",
+      "name": "朵蕊咪的店",
+      "categories": [
+        "火鍋",
+        "小吃"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": null,
+      "review_count": null,
+      "address": "台南市仁德區二仁路一段151號",
+      "lat": 22.9201803,
+      "lon": 120.2249717,
+      "distance_km": 0.36,
+      "scooter_minutes": 1,
+      "phone": "06-366-1088",
+      "hours": "10:00–15:00、16:00–20:50",
+      "hours_note": "",
+      "coord_note": "與學校名錄中同址的 7-Eleven（二仁路一段151號）點位",
+      "coord_source": "nominatim_same_address",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9C%B5%E8%95%8A%E5%92%AA%E7%9A%84%E5%BA%97%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E4%BB%81%E8%B7%AF%E4%B8%80%E6%AE%B5151%E8%99%9F",
+      "source": "cnu",
+      "flavors": [
+        "重鹹",
+        "湯湯水水"
+      ],
+      "portion": [
+        "中",
+        "大",
+        "超大"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人",
+        "適合多人"
+      ],
+      "speed": [
+        "快速",
+        "需等待"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner"
+      ],
+      "default_distance_km": 0.36,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r024",
+      "name": "玖月咖啡 Sep. Coffee",
+      "categories": [
+        "咖啡廳"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 5.0,
+      "review_count": 16,
+      "address": "台南市仁德區二仁路一段58-7號外面咖啡攤",
+      "lat": 22.91948,
+      "lon": 120.22585,
+      "distance_km": 0.36,
+      "scooter_minutes": 1,
+      "phone": "0909-154-200",
+      "hours": "週一至週五 07:00–16:00；週六至週日公休（僅外帶；休假日以官方 Line 為準）",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%8E%96%E6%9C%88%E5%92%96%E5%95%A1%20Sep.%20Coffee%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E4%BB%81%E8%B7%AF%E4%B8%80%E6%AE%B558-7%E8%99%9F%E5%A4%96%E9%9D%A2%E5%92%96%E5%95%A1%E6%94%A4",
+      "source": "maps",
+      "flavors": [
+        "清淡",
+        "甜"
+      ],
+      "portion": [
+        "小",
+        "中"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人",
+        "適合多人"
+      ],
+      "speed": [
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner"
+      ],
+      "default_distance_km": 0.36,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r025",
+      "name": "茶客多",
+      "categories": [
+        "飲料"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.8,
+      "review_count": 26,
+      "address": "台南市仁德區二行一路193號",
+      "lat": 22.92008,
+      "lon": 120.22506,
+      "distance_km": 0.36,
+      "scooter_minutes": 1,
+      "phone": "06-266-6000",
+      "hours": "週二至週五 09:30–17:30；週六至週日 09:00–17:30；週一公休",
+      "hours_note": "較早的食記曾寫二行一路185號、週日公休，這裡以地圖資料為準",
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E5%AE%A2%E5%A4%9A%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E8%A1%8C%E4%B8%80%E8%B7%AF193%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "甜"
+      ],
+      "portion": [
+        "小"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner"
+      ],
+      "default_distance_km": 0.36,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r026",
+      "name": "水巷茶弄（仁德嘉藥店）",
+      "categories": [
+        "飲料"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 3.9,
+      "review_count": 237,
+      "address": "台南市仁德區二仁路一段138號",
+      "lat": 22.92298,
+      "lon": 120.2241,
+      "distance_km": 0.37,
+      "scooter_minutes": 1,
+      "phone": "06-266-7030",
+      "hours": "週一至週六 08:30–21:00；週日 09:00–21:00",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%B0%B4%E5%B7%B7%E8%8C%B6%E5%BC%84%EF%BC%88%E4%BB%81%E5%BE%B7%E5%98%89%E8%97%A5%E5%BA%97%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E4%BB%81%E8%B7%AF%E4%B8%80%E6%AE%B5138%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "甜"
+      ],
+      "portion": [
+        "小"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 0.37,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r027",
+      "name": "鮮Q",
+      "categories": [
+        "麵食",
+        "小吃"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.3,
+      "review_count": 248,
+      "address": "台南市仁德區二行一路183號",
+      "lat": 22.91992,
+      "lon": 120.22507,
+      "distance_km": 0.37,
+      "scooter_minutes": 1,
+      "phone": "06-266-5358",
+      "hours": "週一至週四、週六至週日 10:30–21:00；週五 10:30–14:00",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%AE%AEQ%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E8%A1%8C%E4%B8%80%E8%B7%AF183%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "重鹹",
+        "湯湯水水"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "麵",
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速",
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 0.37,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r028",
+      "name": "拉亞漢堡（仁德嘉藥）",
+      "categories": [
+        "早午餐",
+        "美式"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 3.6,
+      "review_count": 242,
+      "address": "台南市仁德區中正路一段73號",
+      "lat": 22.91927,
+      "lon": 120.22937,
+      "distance_km": 0.38,
+      "scooter_minutes": 1,
+      "phone": "06-266-7565",
+      "hours": "週二至週日 07:00–13:00；週一公休",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%8B%89%E4%BA%9E%E6%BC%A2%E5%A0%A1%EF%BC%88%E4%BB%81%E5%BE%B7%E5%98%89%E8%97%A5%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B573%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "清淡",
+        "重鹹",
+        "炸物"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人",
+        "適合多人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "breakfast",
+        "lunch"
+      ],
+      "default_distance_km": 0.38,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r029",
+      "name": "極品關東煮",
+      "categories": [
+        "小吃",
+        "日式"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": null,
+      "review_count": null,
+      "address": "台南市仁德區中正路一段68號",
+      "lat": 22.9190085,
+      "lon": 120.2289067,
+      "distance_km": 0.38,
+      "scooter_minutes": 1,
+      "phone": "0970-300-038",
+      "hours": "15:30–00:30（週日～週四；週五、週六公休）",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "nominatim_house",
+      "open_at_lunch": false,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%A5%B5%E5%93%81%E9%97%9C%E6%9D%B1%E7%85%AE%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B568%E8%99%9F",
+      "source": "cnu",
+      "flavors": [
+        "清淡",
+        "重鹹",
+        "湯湯水水"
+      ],
+      "portion": [
+        "中"
+      ],
+      "meal_types": [
+        "飯",
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人",
+        "適合多人"
+      ],
+      "speed": [
+        "快速",
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 0.38,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r030",
+      "name": "茶之魔手（二仁店）",
+      "categories": [
+        "飲料"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 3.3,
+      "review_count": 156,
+      "address": "台南市仁德區二仁路一段142號",
+      "lat": 22.92317,
+      "lon": 120.22398,
+      "distance_km": 0.39,
+      "scooter_minutes": 1,
+      "phone": "06-266-3861",
+      "hours": "週一至週五 07:30–22:30；週六至週日 08:30–22:30",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E4%B9%8B%E9%AD%94%E6%89%8B%EF%BC%88%E4%BA%8C%E4%BB%81%E5%BA%97%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E4%BB%81%E8%B7%AF%E4%B8%80%E6%AE%B5142%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "甜"
+      ],
+      "portion": [
+        "小"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 0.39,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r031",
+      "name": "順達便當",
+      "categories": [
+        "便當"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.5,
+      "review_count": 46,
+      "address": "台南市仁德區中正路一段72號",
+      "lat": 22.91905,
+      "lon": 120.22906,
+      "distance_km": 0.39,
+      "scooter_minutes": 1,
+      "phone": null,
+      "hours": "週一至週五 07:00–19:30；週六 06:00–17:00；週日公休",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%A0%86%E9%81%94%E4%BE%BF%E7%95%B6%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B572%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "重鹹"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "飯"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner"
+      ],
+      "default_distance_km": 0.39,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r032",
+      "name": "鮮果盒子",
+      "categories": [
+        "飲料",
+        "甜點"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": null,
+      "review_count": null,
+      "address": "台南市仁德區二行一路175號",
+      "lat": 22.9196849,
+      "lon": 120.2250805,
+      "distance_km": 0.39,
+      "scooter_minutes": 1,
+      "phone": "0901-021-333",
+      "hours": "11:30–21:00（食記載週六公休、寒假不營業）",
+      "hours_note": "資料出自較早的校園美食文，營業情況請再確認",
+      "coord_note": null,
+      "coord_source": "nominatim_house",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%AE%AE%E6%9E%9C%E7%9B%92%E5%AD%90%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E8%A1%8C%E4%B8%80%E8%B7%AF175%E8%99%9F",
+      "source": "blog",
+      "flavors": [
+        "甜"
+      ],
+      "portion": [
+        "小"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 0.39,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r033",
+      "name": "蝸牛屋",
+      "categories": [
+        "早午餐"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": null,
+      "review_count": null,
+      "address": "台南市仁德區中正路一段84號、86號",
+      "lat": 22.9190263,
+      "lon": 120.2293208,
+      "distance_km": 0.4,
+      "scooter_minutes": 1,
+      "phone": "06-266-7881",
+      "hours": "06:00–13:00（週一至週六；週日公休）",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "nominatim_house",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%9D%B8%E7%89%9B%E5%B1%8B%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B584%E8%99%9F%E3%80%8186%E8%99%9F",
+      "source": "cnu",
+      "flavors": [
+        "清淡"
+      ],
+      "portion": [
+        "中"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "breakfast",
+        "lunch"
+      ],
+      "default_distance_km": 0.4,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r034",
+      "name": "8鍋臭臭鍋（嘉藥店）",
+      "categories": [
+        "火鍋"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.6,
+      "review_count": 767,
+      "address": "台南市仁德區二仁路一段117號",
+      "lat": 22.91911,
+      "lon": 120.22547,
+      "distance_km": 0.41,
+      "scooter_minutes": 1,
+      "phone": "06-266-6686",
+      "hours": "每日約 11:00–14:30",
+      "hours_note": "地圖回傳的時段可能不完整（尖峰時段資料顯示晚上仍有人潮），請以現場或地圖為準",
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=8%E9%8D%8B%E8%87%AD%E8%87%AD%E9%8D%8B%EF%BC%88%E5%98%89%E8%97%A5%E5%BA%97%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E4%BB%81%E8%B7%AF%E4%B8%80%E6%AE%B5117%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "重鹹",
+        "辣",
+        "湯湯水水"
+      ],
+      "portion": [
+        "大",
+        "超大"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合多人"
+      ],
+      "speed": [
+        "需等待"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch"
+      ],
+      "default_distance_km": 0.41,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r035",
+      "name": "王品蔥抓餅（嘉藥店）",
+      "categories": [
+        "小吃"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.8,
+      "review_count": 31,
+      "address": "台南市仁德區二行一路157號",
+      "lat": 22.91935,
+      "lon": 120.22506,
+      "distance_km": 0.42,
+      "scooter_minutes": 1,
+      "phone": "0938-009-273",
+      "hours": "週一至週五 11:30–19:00；週六至週日公休",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%8E%8B%E5%93%81%E8%94%A5%E6%8A%93%E9%A4%85%EF%BC%88%E5%98%89%E8%97%A5%E5%BA%97%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E8%A1%8C%E4%B8%80%E8%B7%AF157%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "重鹹"
+      ],
+      "portion": [
+        "中"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner"
+      ],
+      "default_distance_km": 0.42,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r036",
+      "name": "Q麵擱下飯",
+      "categories": [
+        "麵食",
+        "便當"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": null,
+      "review_count": null,
+      "address": "台南市仁德區二仁路一段111號",
+      "lat": 22.9189378,
+      "lon": 120.2255074,
+      "distance_km": 0.43,
+      "scooter_minutes": 1,
+      "phone": "06-366-0688",
+      "hours": "10:30–22:20",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "nominatim_house",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Q%E9%BA%B5%E6%93%B1%E4%B8%8B%E9%A3%AF%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E4%BB%81%E8%B7%AF%E4%B8%80%E6%AE%B5111%E8%99%9F",
+      "source": "cnu",
+      "flavors": [
+        "重鹹",
+        "湯湯水水"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "飯",
+        "麵"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速",
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 0.43,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r037",
+      "name": "元氣早午餐（仁德嘉藥）",
+      "categories": [
+        "早午餐"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.1,
+      "review_count": 181,
+      "address": "台南市仁德區二行一路114號",
+      "lat": 22.91911,
+      "lon": 120.22524,
+      "distance_km": 0.43,
+      "scooter_minutes": 1,
+      "phone": "06-266-6816",
+      "hours": "每日 06:30–13:00",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%83%E6%B0%A3%E6%97%A9%E5%8D%88%E9%A4%90%EF%BC%88%E4%BB%81%E5%BE%B7%E5%98%89%E8%97%A5%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E8%A1%8C%E4%B8%80%E8%B7%AF114%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "清淡"
+      ],
+      "portion": [
+        "中"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "breakfast",
+        "lunch"
+      ],
+      "default_distance_km": 0.43,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r038",
+      "name": "原芋圓",
+      "categories": [
+        "甜點",
+        "豆花剉冰",
+        "飲料"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": null,
+      "review_count": null,
+      "address": "台南市仁德區二仁路一段111號",
+      "lat": 22.9189378,
+      "lon": 120.2255074,
+      "distance_km": 0.43,
+      "scooter_minutes": 1,
+      "phone": "06-366-0688",
+      "hours": "09:00–21:00",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "nominatim_house",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8E%9F%E8%8A%8B%E5%9C%93%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E4%BB%81%E8%B7%AF%E4%B8%80%E6%AE%B5111%E8%99%9F",
+      "source": "cnu",
+      "flavors": [
+        "清淡",
+        "甜"
+      ],
+      "portion": [
+        "小",
+        "中"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 0.43,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r039",
+      "name": "川味麻辣燒燙",
+      "categories": [
+        "火鍋",
+        "中式",
+        "麵食"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.1,
+      "review_count": 33,
+      "address": "台南市仁德區二行一路116號",
+      "lat": 22.91911,
+      "lon": 120.22524,
+      "distance_km": 0.43,
+      "scooter_minutes": 1,
+      "phone": "06-366-1717",
+      "hours": "11:30–22:00",
+      "hours_note": "評分引自整理 Google 資料的火鍋網站；另有來源寫地址為124號、週六公休，請以現場為準",
+      "coord_note": "依同路近門牌 元氣早午餐（仁德嘉藥）（相差約 2 號）估算",
+      "coord_source": "street_estimate",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B7%9D%E5%91%B3%E9%BA%BB%E8%BE%A3%E7%87%92%E7%87%99%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E8%A1%8C%E4%B8%80%E8%B7%AF116%E8%99%9F",
+      "source": "blog+hotpot",
+      "flavors": [
+        "重鹹",
+        "辣",
+        "湯湯水水"
+      ],
+      "portion": [
+        "中",
+        "大",
+        "超大"
+      ],
+      "meal_types": [
+        "飯",
+        "麵",
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人",
+        "適合多人"
+      ],
+      "speed": [
+        "普通",
+        "需等待"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 0.43,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r040",
+      "name": "千香漢堡（仁德二行店）",
+      "categories": [
+        "早午餐",
+        "美式"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.2,
+      "review_count": 136,
+      "address": "台南市仁德區二行一路110號",
+      "lat": 22.91907,
+      "lon": 120.22518,
+      "distance_km": 0.44,
+      "scooter_minutes": 1,
+      "phone": "06-266-6501",
+      "hours": "每日 06:00–13:00",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E9%A6%99%E6%BC%A2%E5%A0%A1%EF%BC%88%E4%BB%81%E5%BE%B7%E4%BA%8C%E8%A1%8C%E5%BA%97%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E8%A1%8C%E4%B8%80%E8%B7%AF110%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "清淡",
+        "重鹹",
+        "炸物"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人",
+        "適合多人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "breakfast",
+        "lunch"
+      ],
+      "default_distance_km": 0.44,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r041",
+      "name": "阿吉鹹酥雞",
+      "categories": [
+        "鹹酥雞",
+        "小吃"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 3.5,
+      "review_count": 2,
+      "address": "台南市仁德區二行一路110之1號",
+      "lat": 22.91899,
+      "lon": 120.22521,
+      "distance_km": 0.44,
+      "scooter_minutes": 1,
+      "phone": "0963-206-303",
+      "hours": "週一至週六 16:30–24:00；週日公休",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": false,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%98%BF%E5%90%89%E9%B9%B9%E9%85%A5%E9%9B%9E%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E8%A1%8C%E4%B8%80%E8%B7%AF110%E4%B9%8B1%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "重鹹",
+        "炸物"
+      ],
+      "portion": [
+        "中"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人",
+        "適合多人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 0.44,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r042",
+      "name": "麻古茶坊（台南嘉藥店）",
+      "categories": [
+        "飲料"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 3.3,
+      "review_count": 298,
+      "address": "台南市仁德區二仁路一段111號",
+      "lat": 22.91886,
+      "lon": 120.22552,
+      "distance_km": 0.44,
+      "scooter_minutes": 1,
+      "phone": "06-366-0123",
+      "hours": "每日 10:00–22:00",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%BA%BB%E5%8F%A4%E8%8C%B6%E5%9D%8A%EF%BC%88%E5%8F%B0%E5%8D%97%E5%98%89%E8%97%A5%E5%BA%97%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E4%BB%81%E8%B7%AF%E4%B8%80%E6%AE%B5111%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "甜"
+      ],
+      "portion": [
+        "小"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 0.44,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r043",
+      "name": "叔炸甜不辣媽（台南仁德嘉藥店）",
+      "categories": [
+        "小吃"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.4,
+      "review_count": 18,
+      "address": "台南市仁德區二行一路147號",
+      "lat": 22.91903,
+      "lon": 120.22499,
+      "distance_km": 0.45,
+      "scooter_minutes": 1,
+      "phone": "06-266-0609",
+      "hours": "每日 12:00–22:00",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8F%94%E7%82%B8%E7%94%9C%E4%B8%8D%E8%BE%A3%E5%AA%BD%EF%BC%88%E5%8F%B0%E5%8D%97%E4%BB%81%E5%BE%B7%E5%98%89%E8%97%A5%E5%BA%97%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E8%A1%8C%E4%B8%80%E8%B7%AF147%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "重鹹",
+        "辣",
+        "炸物"
+      ],
+      "portion": [
+        "中"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 0.45,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r044",
+      "name": "阿忠簡單食堂",
+      "categories": [
+        "便當",
+        "小吃"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 3.8,
+      "review_count": 22,
+      "address": "台南市仁德區二行一路94號",
+      "lat": 22.9186053,
+      "lon": 120.2250966,
+      "distance_km": 0.48,
+      "scooter_minutes": 1,
+      "phone": null,
+      "hours": null,
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "nominatim_house",
+      "open_at_lunch": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%98%BF%E5%BF%A0%E7%B0%A1%E5%96%AE%E9%A3%9F%E5%A0%82%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E8%A1%8C%E4%B8%80%E8%B7%AF94%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "重鹹"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "飯",
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch"
+      ],
+      "default_distance_km": 0.48,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r045",
+      "name": "仁德大食客",
+      "categories": [
+        "麵食"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 3.5,
+      "review_count": 266,
+      "address": "台南市仁德區二行一路92號",
+      "lat": 22.91852,
+      "lon": 120.225,
+      "distance_km": 0.5,
+      "scooter_minutes": 1,
+      "phone": "06-366-2058",
+      "hours": "週二至週日 10:00–21:30；週一公休",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%BB%81%E5%BE%B7%E5%A4%A7%E9%A3%9F%E5%AE%A2%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E8%A1%8C%E4%B8%80%E8%B7%AF92%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "重鹹",
+        "湯湯水水"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "麵"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 0.5,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r046",
+      "name": "嘉南鮮牛肉湯",
+      "categories": [
+        "小吃",
+        "麵食"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.4,
+      "review_count": 155,
+      "address": "台南市仁德區二仁路一段75號",
+      "lat": 22.91801,
+      "lon": 120.22566,
+      "distance_km": 0.51,
+      "scooter_minutes": 1,
+      "phone": "06-366-1029",
+      "hours": "週一、週三至週日 06:00–14:00；週二公休",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E5%8D%97%E9%AE%AE%E7%89%9B%E8%82%89%E6%B9%AF%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E4%BB%81%E8%B7%AF%E4%B8%80%E6%AE%B575%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "重鹹",
+        "湯湯水水"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "麵",
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速",
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch"
+      ],
+      "default_distance_km": 0.51,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r047",
+      "name": "佳香關廟魯麵",
+      "categories": [
+        "麵食"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.4,
+      "review_count": 13,
+      "address": "台南市仁德區中正西路18號",
+      "lat": 22.9184,
+      "lon": 120.22436,
+      "distance_km": 0.55,
+      "scooter_minutes": 1,
+      "phone": "06-366-1865",
+      "hours": "週一至週六 11:00–13:30；週日公休",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%BD%B3%E9%A6%99%E9%97%9C%E5%BB%9F%E9%AD%AF%E9%BA%B5%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%A5%BF%E8%B7%AF18%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "重鹹",
+        "湯湯水水"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "麵"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch"
+      ],
+      "default_distance_km": 0.55,
+      "default_travel_minutes": 1
+    },
+    {
+      "id": "r048",
+      "name": "128餐飲店",
+      "categories": [
+        "便當",
+        "小吃"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": null,
+      "review_count": null,
+      "address": "台南市仁德區中正路一段126號",
+      "lat": 22.9194083,
+      "lon": 120.2335031,
+      "distance_km": 0.68,
+      "scooter_minutes": 2,
+      "phone": "06-266-8175",
+      "hours": "06:30–14:00、16:30–21:00",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "nominatim_house",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=128%E9%A4%90%E9%A3%B2%E5%BA%97%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B5126%E8%99%9F",
+      "source": "cnu",
+      "flavors": [
+        "重鹹"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "飯",
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 0.68,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r049",
+      "name": "孫媽媽排骨麵",
+      "categories": [
+        "麵食"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": null,
+      "review_count": null,
+      "address": "台南市仁德區中正路一段116巷2弄22號",
+      "lat": 22.9185872,
+      "lon": 120.2330376,
+      "distance_km": 0.69,
+      "scooter_minutes": 2,
+      "phone": "06-266-2866",
+      "hours": "10:00–14:00",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "nominatim_house",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%AD%AB%E5%AA%BD%E5%AA%BD%E6%8E%92%E9%AA%A8%E9%BA%B5%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B5116%E5%B7%B72%E5%BC%8422%E8%99%9F",
+      "source": "blog",
+      "flavors": [
+        "重鹹",
+        "湯湯水水"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "麵"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch"
+      ],
+      "default_distance_km": 0.69,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r050",
+      "name": "Bon one",
+      "categories": [
+        "咖啡廳"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": null,
+      "review_count": null,
+      "address": "台南市仁德區中正路一段138-1號",
+      "lat": 22.92027,
+      "lon": 120.23454,
+      "distance_km": 0.74,
+      "scooter_minutes": 2,
+      "phone": "0979-756-773",
+      "hours": null,
+      "hours_note": "",
+      "coord_note": "依同路近門牌 128餐飲店（126）與 楨蓁雞腿便當（138）內插估算",
+      "coord_source": "street_estimate",
+      "open_at_lunch": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bon%20one%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B5138-1%E8%99%9F",
+      "source": "cnu",
+      "flavors": [
+        "清淡",
+        "甜"
+      ],
+      "portion": [
+        "小",
+        "中"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人",
+        "適合多人"
+      ],
+      "speed": [
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch"
+      ],
+      "default_distance_km": 0.74,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r051",
+      "name": "健康綠豆湯",
+      "categories": [
+        "豆花剉冰",
+        "甜點",
+        "飲料"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": null,
+      "review_count": null,
+      "address": "台南市仁德區中正路一段175號",
+      "lat": 22.9208132,
+      "lon": 120.2347048,
+      "distance_km": 0.74,
+      "scooter_minutes": 2,
+      "phone": "06-266-6963",
+      "hours": "09:00–21:00",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "nominatim_house",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%81%A5%E5%BA%B7%E7%B6%A0%E8%B1%86%E6%B9%AF%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B5175%E8%99%9F",
+      "source": "cnu",
+      "flavors": [
+        "清淡",
+        "甜",
+        "湯湯水水"
+      ],
+      "portion": [
+        "小",
+        "中"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 0.74,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r052",
+      "name": "楨蓁雞腿便當",
+      "categories": [
+        "便當"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 2.9,
+      "review_count": 261,
+      "address": "台南市仁德區中正路一段138-2號",
+      "lat": 22.92028,
+      "lon": 120.23455,
+      "distance_km": 0.74,
+      "scooter_minutes": 2,
+      "phone": "06-366-2727",
+      "hours": "09:00–20:00",
+      "hours_note": "營業時間依學校名錄；地圖的週一時段資料異常，故未採用",
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%A5%A8%E8%93%81%E9%9B%9E%E8%85%BF%E4%BE%BF%E7%95%B6%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B5138-2%E8%99%9F",
+      "source": "maps+cnu",
+      "flavors": [
+        "重鹹"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "飯"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner"
+      ],
+      "default_distance_km": 0.74,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r053",
+      "name": "阿松豆花",
+      "categories": [
+        "豆花剉冰",
+        "甜點"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 5.0,
+      "review_count": 99,
+      "address": "台南市仁德區文賢路一段702號",
+      "lat": 22.92734,
+      "lon": 120.23224,
+      "distance_km": 0.74,
+      "scooter_minutes": 2,
+      "phone": "0973-476-888",
+      "hours": "週二至週五 14:00–18:30；週六至週日 11:00–18:30；週一公休",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": "weekend_only",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%98%BF%E6%9D%BE%E8%B1%86%E8%8A%B1%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E6%96%87%E8%B3%A2%E8%B7%AF%E4%B8%80%E6%AE%B5702%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "清淡",
+        "甜"
+      ],
+      "portion": [
+        "小",
+        "中"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner"
+      ],
+      "default_distance_km": 0.74,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r054",
+      "name": "Mr.BREIZH",
+      "categories": [
+        "甜點",
+        "早午餐"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": null,
+      "review_count": null,
+      "address": "台南市仁德區中正路一段185-3號",
+      "lat": 22.92114,
+      "lon": 120.23502,
+      "distance_km": 0.77,
+      "scooter_minutes": 2,
+      "phone": "0955-168-660",
+      "hours": "16:00–21:00（週六、週日公休）",
+      "hours_note": "",
+      "coord_note": "依同路近門牌 健康綠豆湯（175）與 吳家紅茶冰（台南仁德）（186）內插估算",
+      "coord_source": "street_estimate",
+      "open_at_lunch": false,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Mr.BREIZH%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B5185-3%E8%99%9F",
+      "source": "cnu",
+      "flavors": [
+        "清淡",
+        "甜"
+      ],
+      "portion": [
+        "小",
+        "中"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "breakfast",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 0.77,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r055",
+      "name": "M丼",
+      "categories": [
+        "日式",
+        "便當"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": null,
+      "review_count": null,
+      "address": "台南市仁德區中正路一段185-5號",
+      "lat": 22.92115,
+      "lon": 120.23503,
+      "distance_km": 0.77,
+      "scooter_minutes": 2,
+      "phone": "06-266-7388",
+      "hours": "11:00–14:00、17:00–21:00；週六 17:00–21:00；週日公休",
+      "hours_note": "學校名錄週六只寫晚餐時段，請以現場為準",
+      "coord_note": "依同路近門牌 吳家紅茶冰（台南仁德）（186）與 吳家紅茶冰（台南仁德）（186）內插估算",
+      "coord_source": "street_estimate",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=M%E4%B8%BC%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B5185-5%E8%99%9F",
+      "source": "cnu",
+      "flavors": [
+        "清淡",
+        "重鹹"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "飯",
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人",
+        "適合多人"
+      ],
+      "speed": [
+        "快速",
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 0.77,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r056",
+      "name": "傻師傅湯包",
+      "categories": [
+        "小吃"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": null,
+      "review_count": null,
+      "address": "台南市仁德區中正路一段152-1號",
+      "lat": 22.9205,
+      "lon": 120.2349,
+      "distance_km": 0.77,
+      "scooter_minutes": 2,
+      "phone": "06-266-0926",
+      "hours": "10:30–21:00（週日～週五；週六公休）",
+      "hours_note": "",
+      "coord_note": "依同路近門牌 鍋八麵館（152）與 佛珍素食養生館（162）內插估算",
+      "coord_source": "street_estimate",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%82%BB%E5%B8%AB%E5%82%85%E6%B9%AF%E5%8C%85%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B5152-1%E8%99%9F",
+      "source": "cnu",
+      "flavors": [
+        "重鹹",
+        "湯湯水水"
+      ],
+      "portion": [
+        "中"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 0.77,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r057",
+      "name": "吳家紅茶冰（台南仁德）",
+      "categories": [
+        "飲料"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 2.2,
+      "review_count": 13,
+      "address": "台南市仁德區中正路一段185之5號",
+      "lat": 22.92115,
+      "lon": 120.23503,
+      "distance_km": 0.77,
+      "scooter_minutes": 2,
+      "phone": "0952-629-901",
+      "hours": "週一至週五 09:00–20:00；週六至週日公休",
+      "hours_note": "學校名錄另寫每日 07:30–22:00，請以現場為準",
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%90%B3%E5%AE%B6%E7%B4%85%E8%8C%B6%E5%86%B0%EF%BC%88%E5%8F%B0%E5%8D%97%E4%BB%81%E5%BE%B7%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B5185%E4%B9%8B5%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "甜"
+      ],
+      "portion": [
+        "小"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner"
+      ],
+      "default_distance_km": 0.77,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r058",
+      "name": "小不點手作雞蛋糕",
+      "categories": [
+        "甜點"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.9,
+      "review_count": 16,
+      "address": "台南市仁德區中正路一段185-6號",
+      "lat": 22.92115,
+      "lon": 120.23503,
+      "distance_km": 0.77,
+      "scooter_minutes": 2,
+      "phone": "0900-503-531",
+      "hours": "週一至週六 14:00–18:00；週日公休",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": false,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E4%B8%8D%E9%BB%9E%E6%89%8B%E4%BD%9C%E9%9B%9E%E8%9B%8B%E7%B3%95%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B5185-6%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "甜",
+        "炸物"
+      ],
+      "portion": [
+        "小"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "dinner"
+      ],
+      "default_distance_km": 0.77,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r059",
+      "name": "李記紅茶冰",
+      "categories": [
+        "飲料"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": null,
+      "review_count": null,
+      "address": "台南市仁德區中正路一段185號",
+      "lat": 22.92113,
+      "lon": 120.23501,
+      "distance_km": 0.77,
+      "scooter_minutes": 2,
+      "phone": "06-266-8691",
+      "hours": "08:00–21:00",
+      "hours_note": "",
+      "coord_note": "依同路近門牌 健康綠豆湯（175）與 吳家紅茶冰（台南仁德）（186）內插估算",
+      "coord_source": "street_estimate",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%8E%E8%A8%98%E7%B4%85%E8%8C%B6%E5%86%B0%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B5185%E8%99%9F",
+      "source": "cnu",
+      "flavors": [
+        "甜"
+      ],
+      "portion": [
+        "小"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 0.77,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r060",
+      "name": "美濃粄條",
+      "categories": [
+        "麵食"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": null,
+      "review_count": null,
+      "address": "台南市仁德區中正路一段185-3號",
+      "lat": 22.92114,
+      "lon": 120.23502,
+      "distance_km": 0.77,
+      "scooter_minutes": 2,
+      "phone": "06-266-6533",
+      "hours": "11:00–20:00",
+      "hours_note": "",
+      "coord_note": "依同路近門牌 健康綠豆湯（175）與 吳家紅茶冰（台南仁德）（186）內插估算",
+      "coord_source": "street_estimate",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%BE%8E%E6%BF%83%E7%B2%84%E6%A2%9D%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B5185-3%E8%99%9F",
+      "source": "cnu",
+      "flavors": [
+        "重鹹",
+        "湯湯水水"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "麵"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner"
+      ],
+      "default_distance_km": 0.77,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r061",
+      "name": "萬水牛肉餐館",
+      "categories": [
+        "麵食",
+        "小吃"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": null,
+      "review_count": null,
+      "address": "台南市仁德區中正路一段185-2號",
+      "lat": 22.92114,
+      "lon": 120.23502,
+      "distance_km": 0.77,
+      "scooter_minutes": 2,
+      "phone": "06-366-1988",
+      "hours": "09:00–13:30、16:30–21:30（週二公休）",
+      "hours_note": "",
+      "coord_note": "依同路近門牌 健康綠豆湯（175）與 吳家紅茶冰（台南仁德）（186）內插估算",
+      "coord_source": "street_estimate",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%90%AC%E6%B0%B4%E7%89%9B%E8%82%89%E9%A4%90%E9%A4%A8%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B5185-2%E8%99%9F",
+      "source": "cnu",
+      "flavors": [
+        "重鹹",
+        "湯湯水水"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "麵",
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速",
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 0.77,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r062",
+      "name": "鍋八麵館",
+      "categories": [
+        "麵食"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.5,
+      "review_count": 91,
+      "address": "台南市仁德區中正路一段152號",
+      "lat": 22.9205,
+      "lon": 120.2349,
+      "distance_km": 0.77,
+      "scooter_minutes": 2,
+      "phone": "06-266-8205",
+      "hours": "週一至週五 10:00–20:00；週六至週日 10:00–19:00",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%8D%8B%E5%85%AB%E9%BA%B5%E9%A4%A8%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B5152%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "重鹹",
+        "湯湯水水"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "麵"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner"
+      ],
+      "default_distance_km": 0.77,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r063",
+      "name": "駿港式燒臘便當",
+      "categories": [
+        "便當"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": null,
+      "review_count": null,
+      "address": "台南市仁德區中正路一段185號",
+      "lat": 22.92113,
+      "lon": 120.23501,
+      "distance_km": 0.77,
+      "scooter_minutes": 2,
+      "phone": "06-266-8065",
+      "hours": "11:00–20:30（週日公休）",
+      "hours_note": "",
+      "coord_note": "依同路近門牌 健康綠豆湯（175）與 吳家紅茶冰（台南仁德）（186）內插估算",
+      "coord_source": "street_estimate",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%A7%BF%E6%B8%AF%E5%BC%8F%E7%87%92%E8%87%98%E4%BE%BF%E7%95%B6%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B5185%E8%99%9F",
+      "source": "cnu",
+      "flavors": [
+        "重鹹"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "飯"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner"
+      ],
+      "default_distance_km": 0.77,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r064",
+      "name": "佛珍素食養生館",
+      "categories": [
+        "素食"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.1,
+      "review_count": 171,
+      "address": "台南市仁德區中正路一段162號",
+      "lat": 22.92067,
+      "lon": 120.23502,
+      "distance_km": 0.78,
+      "scooter_minutes": 2,
+      "phone": "06-266-7969",
+      "hours": "週一至週六 10:30–14:00、16:00–20:00；週日 10:30–14:00",
+      "hours_note": "學校名錄含晚餐時段；地圖另顯示平日僅中午、週日公休，請以現場為準",
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%BD%9B%E7%8F%8D%E7%B4%A0%E9%A3%9F%E9%A4%8A%E7%94%9F%E9%A4%A8%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B5162%E8%99%9F",
+      "source": "maps+cnu",
+      "flavors": [
+        "清淡"
+      ],
+      "portion": [
+        "中"
+      ],
+      "meal_types": [
+        "飯",
+        "麵",
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner"
+      ],
+      "default_distance_km": 0.78,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r065",
+      "name": "大嘉豪自助餐",
+      "categories": [
+        "便當",
+        "中式"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.3,
+      "review_count": 32,
+      "address": "台南市仁德區中正路一段170號",
+      "lat": 22.92082,
+      "lon": 120.23516,
+      "distance_km": 0.79,
+      "scooter_minutes": 2,
+      "phone": "06-266-5698",
+      "hours": "每日 10:00–20:00",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%98%89%E8%B1%AA%E8%87%AA%E5%8A%A9%E9%A4%90%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B5170%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "重鹹"
+      ],
+      "portion": [
+        "中",
+        "大",
+        "超大"
+      ],
+      "meal_types": [
+        "飯"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人",
+        "適合多人"
+      ],
+      "speed": [
+        "快速",
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner"
+      ],
+      "default_distance_km": 0.79,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r066",
+      "name": "紅茶幫（保安店）",
+      "categories": [
+        "飲料"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 3.5,
+      "review_count": 45,
+      "address": "台南市仁德區中正路一段196號",
+      "lat": 22.9212165,
+      "lon": 120.2354539,
+      "distance_km": 0.81,
+      "scooter_minutes": 2,
+      "phone": "06-266-8458",
+      "hours": "週日～週四 07:00–21:00；週五～週六 07:00–22:00",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "nominatim_house",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%B4%85%E8%8C%B6%E5%B9%AB%EF%BC%88%E4%BF%9D%E5%AE%89%E5%BA%97%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B5196%E8%99%9F",
+      "source": "maps+cnu",
+      "flavors": [
+        "甜"
+      ],
+      "portion": [
+        "小"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 0.81,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r067",
+      "name": "富林漢堡美食（保安分店）",
+      "categories": [
+        "早午餐"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 3.1,
+      "review_count": 31,
+      "address": "台南市仁德區中正路一段214號",
+      "lat": 22.92154,
+      "lon": 120.23572,
+      "distance_km": 0.83,
+      "scooter_minutes": 2,
+      "phone": "06-266-5749",
+      "hours": null,
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E6%9E%97%E6%BC%A2%E5%A0%A1%E7%BE%8E%E9%A3%9F%EF%BC%88%E4%BF%9D%E5%AE%89%E5%88%86%E5%BA%97%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B5214%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "清淡"
+      ],
+      "portion": [
+        "中"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "breakfast",
+        "lunch"
+      ],
+      "default_distance_km": 0.83,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r068",
+      "name": "大腸麵線（中正路一段）",
+      "categories": [
+        "麵食",
+        "小吃"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": null,
+      "review_count": null,
+      "address": "台南市仁德區中正路一段216號",
+      "lat": 22.9215432,
+      "lon": 120.2358055,
+      "distance_km": 0.84,
+      "scooter_minutes": 2,
+      "phone": "06-266-9190",
+      "hours": "07:00–22:00",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "nominatim_house",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E8%85%B8%E9%BA%B5%E7%B7%9A%EF%BC%88%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B5%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B5216%E8%99%9F",
+      "source": "cnu",
+      "flavors": [
+        "重鹹",
+        "湯湯水水"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "麵",
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速",
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 0.84,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r069",
+      "name": "越南河粉（文賢路）",
+      "categories": [
+        "泰越",
+        "麵食"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 3.8,
+      "review_count": 171,
+      "address": "台南市仁德區文賢路一段823號",
+      "lat": 22.92375,
+      "lon": 120.2357,
+      "distance_km": 0.84,
+      "scooter_minutes": 2,
+      "phone": "0979-231-759",
+      "hours": "每日 07:00–15:00",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%B6%8A%E5%8D%97%E6%B2%B3%E7%B2%89%EF%BC%88%E6%96%87%E8%B3%A2%E8%B7%AF%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E6%96%87%E8%B3%A2%E8%B7%AF%E4%B8%80%E6%AE%B5823%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "重鹹",
+        "辣",
+        "酸",
+        "湯湯水水"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "麵"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch"
+      ],
+      "default_distance_km": 0.84,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r070",
+      "name": "阿惠雞肉飯便當",
+      "categories": [
+        "便當"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.0,
+      "review_count": 172,
+      "address": "台南市仁德區中正路一段220號",
+      "lat": 22.92164,
+      "lon": 120.23585,
+      "distance_km": 0.84,
+      "scooter_minutes": 2,
+      "phone": "06-266-1472",
+      "hours": "每日 09:00–21:00",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%98%BF%E6%83%A0%E9%9B%9E%E8%82%89%E9%A3%AF%E4%BE%BF%E7%95%B6%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B5220%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "重鹹"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "飯"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 0.84,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r071",
+      "name": "保安工寓咖啡（Bao'an Pasta）",
+      "categories": [
+        "咖啡廳",
+        "美式"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.5,
+      "review_count": 378,
+      "address": "台南市仁德區文賢路一段640號",
+      "lat": 22.9294,
+      "lon": 120.23103,
+      "distance_km": 0.87,
+      "scooter_minutes": 2,
+      "phone": "06-266-3354",
+      "hours": "每日 10:30–14:30",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%BF%9D%E5%AE%89%E5%B7%A5%E5%AF%93%E5%92%96%E5%95%A1%EF%BC%88Bao%27an%20Pasta%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E6%96%87%E8%B3%A2%E8%B7%AF%E4%B8%80%E6%AE%B5640%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "清淡",
+        "重鹹",
+        "甜",
+        "炸物"
+      ],
+      "portion": [
+        "小",
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人",
+        "適合多人"
+      ],
+      "speed": [
+        "快速",
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch"
+      ],
+      "default_distance_km": 0.87,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r072",
+      "name": "早安山丘（仁德中正西店）",
+      "categories": [
+        "早午餐"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 3.9,
+      "review_count": 154,
+      "address": "台南市仁德區中正西路213號",
+      "lat": 22.91765,
+      "lon": 120.22083,
+      "distance_km": 0.87,
+      "scooter_minutes": 2,
+      "phone": "06-266-7787",
+      "hours": "每日 05:30–13:30",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%97%A9%E5%AE%89%E5%B1%B1%E4%B8%98%EF%BC%88%E4%BB%81%E5%BE%B7%E4%B8%AD%E6%AD%A3%E8%A5%BF%E5%BA%97%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%A5%BF%E8%B7%AF213%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "清淡"
+      ],
+      "portion": [
+        "中"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "breakfast",
+        "lunch"
+      ],
+      "default_distance_km": 0.87,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r073",
+      "name": "Tea's原味（仁德保安店）",
+      "categories": [
+        "飲料"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 3.2,
+      "review_count": 77,
+      "address": "台南市仁德區中正路一段240號",
+      "lat": 22.9219,
+      "lon": 120.23626,
+      "distance_km": 0.88,
+      "scooter_minutes": 2,
+      "phone": "06-266-7819",
+      "hours": "每日 09:00–22:00",
+      "hours_note": "學校名錄另寫 07:00–23:00",
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Tea%27s%E5%8E%9F%E5%91%B3%EF%BC%88%E4%BB%81%E5%BE%B7%E4%BF%9D%E5%AE%89%E5%BA%97%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B5240%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "甜"
+      ],
+      "portion": [
+        "小"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 0.88,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r074",
+      "name": "Ricci Caffè",
+      "categories": [
+        "咖啡廳"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.7,
+      "review_count": 267,
+      "address": "台南市仁德區中正路一段251巷25弄36號",
+      "lat": 22.92373,
+      "lon": 120.23616,
+      "distance_km": 0.89,
+      "scooter_minutes": 2,
+      "phone": "06-266-9718",
+      "hours": "每日 11:00–20:30",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ricci%20Caff%C3%A8%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B5251%E5%B7%B725%E5%BC%8436%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "清淡",
+        "甜"
+      ],
+      "portion": [
+        "小",
+        "中"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人",
+        "適合多人"
+      ],
+      "speed": [
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner"
+      ],
+      "default_distance_km": 0.89,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r075",
+      "name": "酵素臭豆腐",
+      "categories": [
+        "小吃"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": null,
+      "review_count": null,
+      "address": "台南市仁德區中正路一段238號",
+      "lat": 22.922,
+      "lon": 120.23634,
+      "distance_km": 0.89,
+      "scooter_minutes": 2,
+      "phone": null,
+      "hours": null,
+      "hours_note": "",
+      "coord_note": "依同路近門牌 上河野鍋物（仁德旗艦店）（223）與 Tea's原味（仁德保安店）（240）內插估算",
+      "coord_source": "street_estimate",
+      "open_at_lunch": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%85%B5%E7%B4%A0%E8%87%AD%E8%B1%86%E8%85%90%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B5238%E8%99%9F",
+      "source": "cnu",
+      "flavors": [
+        "清淡",
+        "重鹹"
+      ],
+      "portion": [
+        "中"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch"
+      ],
+      "default_distance_km": 0.89,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r076",
+      "name": "米里MiNi",
+      "categories": [
+        "飲料",
+        "咖啡廳"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": null,
+      "review_count": null,
+      "address": "台南市仁德區中正路一段234號",
+      "lat": 22.92219,
+      "lon": 120.23649,
+      "distance_km": 0.91,
+      "scooter_minutes": 2,
+      "phone": "06-266-3778",
+      "hours": "07:10–22:00",
+      "hours_note": "",
+      "coord_note": "依同路近門牌 上河野鍋物（仁德旗艦店）（223）與 Tea's原味（仁德保安店）（240）內插估算",
+      "coord_source": "street_estimate",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%B1%B3%E9%87%8CMiNi%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B5234%E8%99%9F",
+      "source": "cnu",
+      "flavors": [
+        "清淡",
+        "甜"
+      ],
+      "portion": [
+        "小",
+        "中"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人",
+        "適合多人"
+      ],
+      "speed": [
+        "快速",
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 0.91,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r077",
+      "name": "八方雲集（仁德保安店）",
+      "categories": [
+        "麵食",
+        "小吃"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 3.4,
+      "review_count": 770,
+      "address": "台南市仁德區中正路一段246號",
+      "lat": 22.9221,
+      "lon": 120.23658,
+      "distance_km": 0.92,
+      "scooter_minutes": 2,
+      "phone": "06-366-2788",
+      "hours": "週一至週五、週日 10:30–20:45；週六 10:30–19:10",
+      "hours_note": "學校文賢路名錄曾寫「文賢路一段246號」，電話相同，這裡以地圖地址為準",
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E6%96%B9%E9%9B%B2%E9%9B%86%EF%BC%88%E4%BB%81%E5%BE%B7%E4%BF%9D%E5%AE%89%E5%BA%97%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B5246%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "重鹹",
+        "湯湯水水"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "麵",
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速",
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner"
+      ],
+      "default_distance_km": 0.92,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r078",
+      "name": "劉妹鍋燒（保安中正店）",
+      "categories": [
+        "麵食"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.7,
+      "review_count": 90,
+      "address": "台南市仁德區中正路一段256號",
+      "lat": 22.92243,
+      "lon": 120.23684,
+      "distance_km": 0.94,
+      "scooter_minutes": 2,
+      "phone": "06-266-6720",
+      "hours": "週一至週二、週四至週六 10:00–21:00；週三 10:00–16:00；週日公休",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8A%89%E5%A6%B9%E9%8D%8B%E7%87%92%EF%BC%88%E4%BF%9D%E5%AE%89%E4%B8%AD%E6%AD%A3%E5%BA%97%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B5256%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "重鹹",
+        "湯湯水水"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "麵"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 0.94,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r079",
+      "name": "上河野鍋物（仁德旗艦店）",
+      "categories": [
+        "火鍋"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.7,
+      "review_count": 890,
+      "address": "台南市仁德區中正路一段223號",
+      "lat": 22.92273,
+      "lon": 120.23692,
+      "distance_km": 0.95,
+      "scooter_minutes": 2,
+      "phone": "06-266-2255",
+      "hours": "每日 11:00–22:30",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%8A%E6%B2%B3%E9%87%8E%E9%8D%8B%E7%89%A9%EF%BC%88%E4%BB%81%E5%BE%B7%E6%97%97%E8%89%A6%E5%BA%97%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B5223%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "重鹹",
+        "湯湯水水"
+      ],
+      "portion": [
+        "大",
+        "超大"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合多人"
+      ],
+      "speed": [
+        "需等待"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 0.95,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r080",
+      "name": "聯芳小樹米食主義",
+      "categories": [
+        "便當",
+        "中式"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.5,
+      "review_count": 350,
+      "address": "台南市仁德區文賢路一段603號",
+      "lat": 22.93021,
+      "lon": 120.23115,
+      "distance_km": 0.95,
+      "scooter_minutes": 2,
+      "phone": "06-266-5517",
+      "hours": "週一、週二、週四、週五 11:30–14:00；週六 11:00–14:00；週日 11:20–14:00；週三公休",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%81%AF%E8%8A%B3%E5%B0%8F%E6%A8%B9%E7%B1%B3%E9%A3%9F%E4%B8%BB%E7%BE%A9%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E6%96%87%E8%B3%A2%E8%B7%AF%E4%B8%80%E6%AE%B5603%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "重鹹"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "飯"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速",
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch"
+      ],
+      "default_distance_km": 0.95,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r081",
+      "name": "弘爺漢堡（仁德保安店）",
+      "categories": [
+        "早午餐"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.6,
+      "review_count": 103,
+      "address": "台南市仁德區保安路一段126號",
+      "lat": 22.93059,
+      "lon": 120.23047,
+      "distance_km": 0.97,
+      "scooter_minutes": 2,
+      "phone": "06-266-7710",
+      "hours": "週一至週六 06:00–13:15；週日公休",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%BC%98%E7%88%BA%E6%BC%A2%E5%A0%A1%EF%BC%88%E4%BB%81%E5%BE%B7%E4%BF%9D%E5%AE%89%E5%BA%97%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BF%9D%E5%AE%89%E8%B7%AF%E4%B8%80%E6%AE%B5126%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "清淡"
+      ],
+      "portion": [
+        "中"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "breakfast",
+        "lunch"
+      ],
+      "default_distance_km": 0.97,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r082",
+      "name": "千香漢堡（仁德保安店）",
+      "categories": [
+        "早午餐"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.2,
+      "review_count": 52,
+      "address": "台南市仁德區保安路一段130號",
+      "lat": 22.93064,
+      "lon": 120.23083,
+      "distance_km": 0.99,
+      "scooter_minutes": 2,
+      "phone": "06-266-1881",
+      "hours": "週二至週五 06:00–13:00；週六至週日 06:30–13:00；週一公休",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E9%A6%99%E6%BC%A2%E5%A0%A1%EF%BC%88%E4%BB%81%E5%BE%B7%E4%BF%9D%E5%AE%89%E5%BA%97%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BF%9D%E5%AE%89%E8%B7%AF%E4%B8%80%E6%AE%B5130%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "清淡"
+      ],
+      "portion": [
+        "中"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "breakfast",
+        "lunch"
+      ],
+      "default_distance_km": 0.99,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r083",
+      "name": "豆工坊",
+      "categories": [
+        "豆花剉冰",
+        "甜點",
+        "飲料"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.5,
+      "review_count": 73,
+      "address": "台南市仁德區中正路一段262-5號",
+      "lat": 22.92273,
+      "lon": 120.23729,
+      "distance_km": 0.99,
+      "scooter_minutes": 2,
+      "phone": "06-266-6963",
+      "hours": "週一至週五 09:30–21:30；週六至週日 09:30–21:00",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%B1%86%E5%B7%A5%E5%9D%8A%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B5262-5%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "清淡",
+        "甜"
+      ],
+      "portion": [
+        "小",
+        "中"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 0.99,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r084",
+      "name": "李家小吃",
+      "categories": [
+        "小吃"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": null,
+      "review_count": null,
+      "address": "台南市仁德區保安路一段107號",
+      "lat": 22.9308773,
+      "lon": 120.2305532,
+      "distance_km": 1.0,
+      "scooter_minutes": 2,
+      "phone": "06-266-6281",
+      "hours": "06:00–20:00",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "nominatim_house",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%8E%E5%AE%B6%E5%B0%8F%E5%90%83%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BF%9D%E5%AE%89%E8%B7%AF%E4%B8%80%E6%AE%B5107%E8%99%9F",
+      "source": "cnu",
+      "flavors": [
+        "重鹹"
+      ],
+      "portion": [
+        "中"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner"
+      ],
+      "default_distance_km": 1.0,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r085",
+      "name": "保安鹽水手工意麵",
+      "categories": [
+        "麵食"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.7,
+      "review_count": 230,
+      "address": "台南市仁德區文賢路一段571號",
+      "lat": 22.93085,
+      "lon": 120.2311,
+      "distance_km": 1.02,
+      "scooter_minutes": 2,
+      "phone": "0905-318-745",
+      "hours": "週一至週六 08:30–14:00；週日公休",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%BF%9D%E5%AE%89%E9%B9%BD%E6%B0%B4%E6%89%8B%E5%B7%A5%E6%84%8F%E9%BA%B5%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E6%96%87%E8%B3%A2%E8%B7%AF%E4%B8%80%E6%AE%B5571%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "重鹹",
+        "湯湯水水"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "麵"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch"
+      ],
+      "default_distance_km": 1.02,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r086",
+      "name": "阿興小吃（骨肉湯）",
+      "categories": [
+        "小吃"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 3.6,
+      "review_count": 155,
+      "address": "台南市仁德區文賢路一段571號",
+      "lat": 22.93085,
+      "lon": 120.2311,
+      "distance_km": 1.02,
+      "scooter_minutes": 2,
+      "phone": "06-266-7682",
+      "hours": "每日 06:00–20:00",
+      "hours_note": "學校名錄曾寫文賢路一段117號，這裡以地圖地址為準",
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%98%BF%E8%88%88%E5%B0%8F%E5%90%83%EF%BC%88%E9%AA%A8%E8%82%89%E6%B9%AF%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E6%96%87%E8%B3%A2%E8%B7%AF%E4%B8%80%E6%AE%B5571%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "重鹹",
+        "湯湯水水"
+      ],
+      "portion": [
+        "中"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner"
+      ],
+      "default_distance_km": 1.02,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r087",
+      "name": "董家牛肉麵店",
+      "categories": [
+        "麵食"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 3.9,
+      "review_count": 268,
+      "address": "台南市仁德區文賢路一段570號",
+      "lat": 22.93117,
+      "lon": 120.23087,
+      "distance_km": 1.04,
+      "scooter_minutes": 2,
+      "phone": "06-266-9496",
+      "hours": "週一至週五 10:00–20:00；週六至週日 10:00–15:00",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%91%A3%E5%AE%B6%E7%89%9B%E8%82%89%E9%BA%B5%E5%BA%97%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E6%96%87%E8%B3%A2%E8%B7%AF%E4%B8%80%E6%AE%B5570%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "重鹹",
+        "湯湯水水"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "麵"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner"
+      ],
+      "default_distance_km": 1.04,
+      "default_travel_minutes": 2
+    },
+    {
+      "id": "r088",
+      "name": "上鼎嫩骨飯",
+      "categories": [
+        "便當"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.1,
+      "review_count": 160,
+      "address": "台南市仁德區文賢路一段564號",
+      "lat": 22.93131,
+      "lon": 120.23091,
+      "distance_km": 1.06,
+      "scooter_minutes": 3,
+      "phone": "06-266-8277",
+      "hours": "週一至週五 09:30–19:30；週六至週日公休",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%8A%E9%BC%8E%E5%AB%A9%E9%AA%A8%E9%A3%AF%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E6%96%87%E8%B3%A2%E8%B7%AF%E4%B8%80%E6%AE%B5564%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "重鹹"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "飯"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner"
+      ],
+      "default_distance_km": 1.06,
+      "default_travel_minutes": 3
+    },
+    {
+      "id": "r089",
+      "name": "松本鮮奶茶（仁德保安店）",
+      "categories": [
+        "飲料"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 5.0,
+      "review_count": 5,
+      "address": "台南市仁德區文賢路一段558號之1",
+      "lat": 22.93133,
+      "lon": 120.23087,
+      "distance_km": 1.06,
+      "scooter_minutes": 3,
+      "phone": "0968-656-577",
+      "hours": "週一至週六 07:00–22:00；週日 09:00–22:00",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BE%E6%9C%AC%E9%AE%AE%E5%A5%B6%E8%8C%B6%EF%BC%88%E4%BB%81%E5%BE%B7%E4%BF%9D%E5%AE%89%E5%BA%97%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E6%96%87%E8%B3%A2%E8%B7%AF%E4%B8%80%E6%AE%B5558%E8%99%9F%E4%B9%8B1",
+      "source": "maps",
+      "flavors": [
+        "甜"
+      ],
+      "portion": [
+        "小"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 1.06,
+      "default_travel_minutes": 3
+    },
+    {
+      "id": "r090",
+      "name": "閻家土產牛肉湯",
+      "categories": [
+        "小吃",
+        "火鍋"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.4,
+      "review_count": 800,
+      "address": "台南市仁德區中正路一段271號",
+      "lat": 22.9235815,
+      "lon": 120.2381732,
+      "distance_km": 1.09,
+      "scooter_minutes": 3,
+      "phone": "06-366-0570",
+      "hours": "06:30–13:00、16:30–23:00（週一、週二公休）",
+      "hours_note": "評分與「超過800則評論」引自2026年食記對 Google 的整理，評論數為約略值",
+      "coord_note": null,
+      "coord_source": "nominatim_house",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%96%BB%E5%AE%B6%E5%9C%9F%E7%94%A2%E7%89%9B%E8%82%89%E6%B9%AF%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B5271%E8%99%9F",
+      "source": "blog",
+      "flavors": [
+        "重鹹",
+        "湯湯水水"
+      ],
+      "portion": [
+        "中",
+        "大",
+        "超大"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人",
+        "適合多人"
+      ],
+      "speed": [
+        "快速",
+        "需等待"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 1.09,
+      "default_travel_minutes": 3
+    },
+    {
+      "id": "r091",
+      "name": "仁德觀音寺脆皮雞蛋糕",
+      "categories": [
+        "甜點"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 5.0,
+      "review_count": 15,
+      "address": "台南市仁德區中正西路358號觀音寺前",
+      "lat": 22.91794,
+      "lon": 120.21759,
+      "distance_km": 1.14,
+      "scooter_minutes": 3,
+      "phone": "0931-906-026",
+      "hours": "僅週日 14:00–19:00；週一至週六公休",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": false,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%BB%81%E5%BE%B7%E8%A7%80%E9%9F%B3%E5%AF%BA%E8%84%86%E7%9A%AE%E9%9B%9E%E8%9B%8B%E7%B3%95%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%A5%BF%E8%B7%AF358%E8%99%9F%E8%A7%80%E9%9F%B3%E5%AF%BA%E5%89%8D",
+      "source": "maps",
+      "flavors": [
+        "甜",
+        "炸物"
+      ],
+      "portion": [
+        "小"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "dinner"
+      ],
+      "default_distance_km": 1.14,
+      "default_travel_minutes": 3
+    },
+    {
+      "id": "r092",
+      "name": "Do宅烘焙工作室",
+      "categories": [
+        "麵包烘焙",
+        "蛋糕",
+        "甜點"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 5.0,
+      "review_count": 4,
+      "address": "台南市仁德區興達街368之6號",
+      "lat": 22.91626,
+      "lon": 120.21603,
+      "distance_km": 1.36,
+      "scooter_minutes": 3,
+      "phone": "0921-567-678",
+      "hours": "週一至週五 14:00–21:00；週六至週日公休",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": false,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Do%E5%AE%85%E7%83%98%E7%84%99%E5%B7%A5%E4%BD%9C%E5%AE%A4%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E8%88%88%E9%81%94%E8%A1%97368%E4%B9%8B6%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "甜"
+      ],
+      "portion": [
+        "小",
+        "中"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人",
+        "適合多人"
+      ],
+      "speed": [
+        "快速",
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 1.36,
+      "default_travel_minutes": 3
+    },
+    {
+      "id": "r093",
+      "name": "14季餐飲",
+      "categories": [
+        "便當",
+        "小吃"
+      ],
+      "price_level": "$",
+      "price_display": "$",
+      "rating": 4.1,
+      "review_count": 31,
+      "address": "台南市仁德區中正路一段291之55號",
+      "lat": 22.92642,
+      "lon": 120.24145,
+      "distance_km": 1.49,
+      "scooter_minutes": 4,
+      "phone": "06-266-2199",
+      "hours": "週一至週五 09:00–18:00；週六至週日公休",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=14%E5%AD%A3%E9%A4%90%E9%A3%B2%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B5291%E4%B9%8B55%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "重鹹"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "飯",
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner"
+      ],
+      "default_distance_km": 1.49,
+      "default_travel_minutes": 4
+    },
+    {
+      "id": "r094",
+      "name": "永和豆漿（中正路二段）",
+      "categories": [
+        "早午餐"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": null,
+      "review_count": null,
+      "address": "台南市仁德區中正路二段6號",
+      "lat": 22.92642,
+      "lon": 120.24145,
+      "distance_km": 1.49,
+      "scooter_minutes": 4,
+      "phone": null,
+      "hours": "19:00–10:00",
+      "hours_note": null,
+      "coord_note": "開放街圖沒有「二段6號」精確點，座標依鄰近的中正路一段291之55號估算",
+      "coord_source": "street_estimate",
+      "open_at_lunch": false,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%B0%B8%E5%92%8C%E8%B1%86%E6%BC%BF%EF%BC%88%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%BA%8C%E6%AE%B5%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%BA%8C%E6%AE%B56%E8%99%9F",
+      "source": "cnu",
+      "flavors": [
+        "清淡"
+      ],
+      "portion": [
+        "中"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "breakfast",
+        "dinner"
+      ],
+      "default_distance_km": 1.49,
+      "default_travel_minutes": 4
+    },
+    {
+      "id": "r095",
+      "name": "台糖仁德糖廠冰品部",
+      "categories": [
+        "豆花剉冰",
+        "甜點"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.0,
+      "review_count": 797,
+      "address": "台南市仁德區文華路二段290號",
+      "lat": 22.938991,
+      "lon": 120.2292431,
+      "distance_km": 1.87,
+      "scooter_minutes": 4,
+      "phone": null,
+      "hours": null,
+      "hours_note": "另有來源寫虎山路399號，請以地圖導航為準",
+      "coord_note": null,
+      "coord_source": "nominatim_house",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E7%B3%96%E4%BB%81%E5%BE%B7%E7%B3%96%E5%BB%A0%E5%86%B0%E5%93%81%E9%83%A8%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E6%96%87%E8%8F%AF%E8%B7%AF%E4%BA%8C%E6%AE%B5290%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "清淡",
+        "甜"
+      ],
+      "portion": [
+        "小",
+        "中"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch"
+      ],
+      "default_distance_km": 1.87,
+      "default_travel_minutes": 4
+    },
+    {
+      "id": "r096",
+      "name": "虎山雷創意蛋塔",
+      "categories": [
+        "甜點",
+        "麵包烘焙",
+        "蛋糕"
+      ],
+      "price_level": "$",
+      "price_display": "$",
+      "rating": 4.5,
+      "review_count": 781,
+      "address": "台南市仁德區文賢路一段31號",
+      "lat": 22.94365,
+      "lon": 120.22145,
+      "distance_km": 2.46,
+      "scooter_minutes": 6,
+      "phone": "06-266-0116",
+      "hours": "每日 10:50–17:30",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%99%8E%E5%B1%B1%E9%9B%B7%E5%89%B5%E6%84%8F%E8%9B%8B%E5%A1%94%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E6%96%87%E8%B3%A2%E8%B7%AF%E4%B8%80%E6%AE%B531%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "甜"
+      ],
+      "portion": [
+        "小",
+        "中"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人",
+        "適合多人"
+      ],
+      "speed": [
+        "快速",
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner"
+      ],
+      "default_distance_km": 2.46,
+      "default_travel_minutes": 6
+    },
+    {
+      "id": "r097",
+      "name": "Pig's nose 豬鼻子",
+      "categories": [
+        "蛋糕",
+        "麵包烘焙",
+        "甜點"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.6,
+      "review_count": 14,
+      "address": "台南市仁德區上崙街459巷28號",
+      "lat": 22.93739,
+      "lon": 120.24862,
+      "distance_km": 2.73,
+      "scooter_minutes": 7,
+      "phone": "0972-601-332",
+      "hours": "週二至週五 10:00–18:00；週一、週六、週日公休",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pig%27s%20nose%20%E8%B1%AC%E9%BC%BB%E5%AD%90%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%8A%E5%B4%99%E8%A1%97459%E5%B7%B728%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "甜"
+      ],
+      "portion": [
+        "小",
+        "中"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人",
+        "適合多人"
+      ],
+      "speed": [
+        "快速",
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner"
+      ],
+      "default_distance_km": 2.73,
+      "default_travel_minutes": 7
+    },
+    {
+      "id": "r098",
+      "name": "梨花韓國料理（家樂福台南新仁店）",
+      "categories": [
+        "韓式"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 2.9,
+      "review_count": 75,
+      "address": "台南市仁德區大同路三段755號B1",
+      "lat": 22.947,
+      "lon": 120.22061,
+      "distance_km": 2.84,
+      "scooter_minutes": 7,
+      "phone": "06-267-5918",
+      "hours": "每日 11:00–21:00",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%A2%A8%E8%8A%B1%E9%9F%93%E5%9C%8B%E6%96%99%E7%90%86%EF%BC%88%E5%AE%B6%E6%A8%82%E7%A6%8F%E5%8F%B0%E5%8D%97%E6%96%B0%E4%BB%81%E5%BA%97%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E5%A4%A7%E5%90%8C%E8%B7%AF%E4%B8%89%E6%AE%B5755%E8%99%9FB1",
+      "source": "maps",
+      "flavors": [
+        "重鹹",
+        "辣"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "麵",
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人",
+        "適合多人"
+      ],
+      "speed": [
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 2.84,
+      "default_travel_minutes": 7
+    },
+    {
+      "id": "r099",
+      "name": "王記麵店",
+      "categories": [
+        "麵食"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.4,
+      "review_count": 203,
+      "address": "台南市仁德區中洲路722號",
+      "lat": 22.90798,
+      "lon": 120.2508,
+      "distance_km": 2.85,
+      "scooter_minutes": 7,
+      "phone": "06-266-2150",
+      "hours": "週二至週五、週日 11:00–14:30；週六 11:00–19:30；週一公休",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%8E%8B%E8%A8%98%E9%BA%B5%E5%BA%97%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%B4%B2%E8%B7%AF722%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "重鹹",
+        "湯湯水水"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "麵"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner"
+      ],
+      "default_distance_km": 2.85,
+      "default_travel_minutes": 7
+    },
+    {
+      "id": "r100",
+      "name": "三色三味（家樂福台南新仁店）",
+      "categories": [
+        "韓式"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 3.3,
+      "review_count": 16,
+      "address": "台南市仁德區大同路三段755號2樓",
+      "lat": 22.94721,
+      "lon": 120.22007,
+      "distance_km": 2.88,
+      "scooter_minutes": 7,
+      "phone": null,
+      "hours": null,
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E8%89%B2%E4%B8%89%E5%91%B3%EF%BC%88%E5%AE%B6%E6%A8%82%E7%A6%8F%E5%8F%B0%E5%8D%97%E6%96%B0%E4%BB%81%E5%BA%97%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E5%A4%A7%E5%90%8C%E8%B7%AF%E4%B8%89%E6%AE%B5755%E8%99%9F2%E6%A8%93",
+      "source": "maps",
+      "flavors": [
+        "重鹹",
+        "辣"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "麵",
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人",
+        "適合多人"
+      ],
+      "speed": [
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch"
+      ],
+      "default_distance_km": 2.88,
+      "default_travel_minutes": 7
+    },
+    {
+      "id": "r101",
+      "name": "Joyfull 台灣珍有福（台南新仁店）",
+      "categories": [
+        "日式"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.5,
+      "review_count": 977,
+      "address": "台南市仁德區大同路三段755號1樓",
+      "lat": 22.94742,
+      "lon": 120.22008,
+      "distance_km": 2.9,
+      "scooter_minutes": 7,
+      "phone": "06-269-9393",
+      "hours": "週一至週四 10:30–21:00；週五至週日 10:30–22:00",
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Joyfull%20%E5%8F%B0%E7%81%A3%E7%8F%8D%E6%9C%89%E7%A6%8F%EF%BC%88%E5%8F%B0%E5%8D%97%E6%96%B0%E4%BB%81%E5%BA%97%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E5%A4%A7%E5%90%8C%E8%B7%AF%E4%B8%89%E6%AE%B5755%E8%99%9F1%E6%A8%93",
+      "source": "maps",
+      "flavors": [
+        "清淡"
+      ],
+      "portion": [
+        "中"
+      ],
+      "meal_types": [
+        "飯",
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人",
+        "適合多人"
+      ],
+      "speed": [
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "default_distance_km": 2.9,
+      "default_travel_minutes": 7
+    },
+    {
+      "id": "r102",
+      "name": "五花馬水餃館（台南新仁店）",
+      "categories": [
+        "麵食",
+        "中式"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.3,
+      "review_count": 549,
+      "address": "台南市仁德區大同路三段755號美食街2樓",
+      "lat": 22.94742,
+      "lon": 120.22008,
+      "distance_km": 2.9,
+      "scooter_minutes": 7,
+      "phone": "06-260-0769",
+      "hours": "週一至週五 11:00–14:00；週六至週日 11:00–14:30",
+      "hours_note": "地圖回傳時段可能僅含午市，請以現場為準",
+      "coord_note": null,
+      "coord_source": "maps",
+      "open_at_lunch": true,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%BA%94%E8%8A%B1%E9%A6%AC%E6%B0%B4%E9%A4%83%E9%A4%A8%EF%BC%88%E5%8F%B0%E5%8D%97%E6%96%B0%E4%BB%81%E5%BA%97%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E5%A4%A7%E5%90%8C%E8%B7%AF%E4%B8%89%E6%AE%B5755%E8%99%9F%E7%BE%8E%E9%A3%9F%E8%A1%972%E6%A8%93",
+      "source": "maps",
+      "flavors": [
+        "重鹹",
+        "湯湯水水"
+      ],
+      "portion": [
+        "中",
+        "大"
+      ],
+      "meal_types": [
+        "飯",
+        "麵"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch"
+      ],
+      "default_distance_km": 2.9,
+      "default_travel_minutes": 7
+    },
+    {
+      "id": "r103",
+      "name": "富林漢堡美食（中洲分店）",
+      "categories": [
+        "早午餐"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 4.3,
+      "review_count": 40,
+      "address": "台南市仁德區中洲路651號",
+      "lat": 22.9078618,
+      "lon": 120.2512698,
+      "distance_km": 2.9,
+      "scooter_minutes": 7,
+      "phone": null,
+      "hours": null,
+      "hours_note": null,
+      "coord_note": null,
+      "coord_source": "nominatim_house",
+      "open_at_lunch": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E6%9E%97%E6%BC%A2%E5%A0%A1%E7%BE%8E%E9%A3%9F%EF%BC%88%E4%B8%AD%E6%B4%B2%E5%88%86%E5%BA%97%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%B8%AD%E6%B4%B2%E8%B7%AF651%E8%99%9F",
+      "source": "maps",
+      "flavors": [
+        "清淡"
+      ],
+      "portion": [
+        "中"
+      ],
+      "meal_types": [
+        "其他"
+      ],
+      "temps": [
+        "熱"
+      ],
+      "party": [
+        "適合一人"
+      ],
+      "speed": [
+        "快速"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "breakfast",
+        "lunch"
+      ],
+      "default_distance_km": 2.9,
+      "default_travel_minutes": 7
+    },
+    {
+      "id": "r104",
+      "name": "爭鮮迴轉壽司（新仁家樂福店）",
+      "categories": [
+        "日式"
+      ],
+      "price_level": null,
+      "price_display": "未知",
+      "rating": 3.6,
+      "review_count": 40,
+      "address": "台南市仁德區大同路三段755號2樓",
+      "lat": 22.94742,
+      "lon": 120.22008,
+      "distance_km": 2.9,
+      "scooter_minutes": 7,
+      "phone": null,
+      "hours": null,
+      "hours_note": "評分引自 Fonfood 所載 Google 評價",
+      "coord_note": "與家樂福新仁店（大同路三段755號）同一棟，座標取自同棟已定位店家",
+      "coord_source": "same_building",
+      "open_at_lunch": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%88%AD%E9%AE%AE%E8%BF%B4%E8%BD%89%E5%A3%BD%E5%8F%B8%EF%BC%88%E6%96%B0%E4%BB%81%E5%AE%B6%E6%A8%82%E7%A6%8F%E5%BA%97%EF%BC%89%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E5%A4%A7%E5%90%8C%E8%B7%AF%E4%B8%89%E6%AE%B5755%E8%99%9F2%E6%A8%93",
+      "source": "fonfood",
+      "flavors": [
+        "清淡"
+      ],
+      "portion": [
+        "中"
+      ],
+      "meal_types": [
+        "飯",
+        "其他"
+      ],
+      "temps": [
+        "熱",
+        "冷"
+      ],
+      "party": [
+        "適合一人",
+        "適合多人"
+      ],
+      "speed": [
+        "普通"
+      ],
+      "tags_inferred": true,
+      "tags_note": "口味與份量標籤依店名、種類與常見菜單型態推論，不是店家官方標示",
+      "meals": [
+        "lunch"
+      ],
+      "default_distance_km": 2.9,
+      "default_travel_minutes": 7
+    }
+  ],
+  "excluded_outside_radius_or_ungeocoded": [
+    {
+      "name": "85度C（台南仁德店）",
+      "address": "台南市仁德區中山路479號",
+      "reason": "距嘉藥 6.12 km，超過 3 公里",
+      "distance_km": 6.12
+    },
+    {
+      "name": "Magic Touch 点爭鮮（仁德家樂福店）",
+      "address": "台南市仁德區中山路711號",
+      "reason": "距嘉藥 5.93 km，超過 3 公里",
+      "distance_km": 5.93
+    },
+    {
+      "name": "爭鮮迴轉壽司（仁德家樂福店）",
+      "address": "台南市仁德區中山路711號1樓",
+      "reason": "距嘉藥 5.93 km，超過 3 公里",
+      "distance_km": 5.93
+    },
+    {
+      "name": "壽賀喜屋日本拉麵（台南家樂福仁德店）",
+      "address": "台南市仁德區中山路711號1樓",
+      "reason": "距嘉藥 5.93 km，超過 3 公里",
+      "distance_km": 5.93
+    }
+  ]
+}

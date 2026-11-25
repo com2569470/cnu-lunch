@@ -1,0 +1,84 @@
+{
+  "defaultRegion": "cnu",
+  "mealLabels": {
+    "breakfast": "早餐",
+    "lunch": "午餐",
+    "dinner": "晚餐",
+    "night": "宵夜"
+  },
+  "regions": [
+    {
+      "id": "cnu",
+      "name": "嘉藥",
+      "enabled": true,
+      "dataFile": "data/cnu.json",
+      "title": "嘉藥午餐吃什麼",
+      "titleLead": "嘉藥午餐",
+      "subtitle": "騎車約 10 分鐘／3 公里內的午餐提案",
+      "locationLabel": "台南仁德・嘉南藥理大學",
+      "meals": [
+        "lunch"
+      ],
+      "center": {
+        "name": "嘉南藥理大學",
+        "address": "台南市仁德區二仁路一段60號",
+        "lat": 22.9222593,
+        "lon": 120.2276409
+      },
+      "origin": {
+        "mode": "fixed",
+        "lat": 22.9222593,
+        "lon": 120.2276409,
+        "label": "嘉藥校門口"
+      },
+      "travel": {
+        "mode": "scooter",
+        "label": "騎車",
+        "speedKmh": 25,
+        "maxMinutes": 10,
+        "radiusKm": 3
+      },
+      "weather": {
+        "lat": 22.92226,
+        "lon": 120.22764,
+        "label": "嘉藥現在的天氣"
+      }
+    },
+    {
+      "id": "taichung",
+      "name": "台中",
+      "enabled": false,
+      "comingSoon": true,
+      "comingSoonNote": "即將推出：用定位抓你現在的位置，篩選開車約 15 分鐘內（約 8 公里）的店；不想開定位也可以手動選區。",
+      "dataFile": "data/taichung.json",
+      "title": "台中吃什麼",
+      "titleLead": "台中",
+      "subtitle": "依目前位置，開車約 15 分鐘內",
+      "locationLabel": "台中",
+      "meals": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "night"
+      ],
+      "origin": {
+        "mode": "geolocation",
+        "fallback": "manual_district",
+        "label": "目前位置"
+      },
+      "travel": {
+        "mode": "driving",
+        "label": "開車",
+        "speedKmh": 32,
+        "maxMinutes": 15,
+        "radiusKm": 8
+      },
+      "weather": {
+        "lat": 24.1477,
+        "lon": 120.6736,
+        "label": "台中現在的天氣"
+      },
+      "districts": []
+    }
+  ]
+}

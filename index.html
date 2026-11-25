@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="zh-Hant-TW">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#fffaf0">
+  <meta name="description" content="嘉藥午餐吃什麼：依心情、口味、天氣和距離，推薦騎車約 10 分鐘內的店家。之後也會加入台中版。">
+  <title>嘉藥午餐吃什麼</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <main class="shell">
+    <header class="hero">
+      <nav class="region-bar" id="region-bar" aria-label="選擇地區"></nav>
+      <div class="hero-copy">
+        <p class="location" id="location-label">⌖　台南仁德・嘉南藥理大學</p>
+        <h1 id="page-title"><span id="title-lead">嘉藥午餐</span><br><em>吃什麼<span>？</span></em></h1>
+        <p class="subtitle" id="subtitle">騎車約 10 分鐘／3 公里內的午餐提案</p>
+      </div>
+      <div class="hero-art" aria-hidden="true">
+        <span class="spark spark-a">✦</span><span class="spark spark-b">✧</span>
+        <span class="stick"></span><span class="bowl"></span>
+        <span class="face">• ◡ •</span><span class="spark spark-c">✦</span>
+      </div>
+      <p class="origin" id="origin-status">以嘉藥校門口為中心 · 騎車 10 分鐘內</p>
+      <div class="origin-controls" id="origin-controls" hidden>
+        <button type="button" class="secondary" id="locate">使用目前位置</button>
+        <label id="district-wrap" hidden>手動選區
+          <select id="district"></select>
+        </label>
+      </div>
+      <div class="weather" id="weather-card" role="status">
+        <span class="weather-icon" id="weather-icon" aria-hidden="true">⛅</span>
+        <div>
+          <strong id="weather-label">嘉藥現在的天氣</strong>
+          <span id="weather">正在讀取天氣…</span>
+        </div>
+      </div>
+    </header>
+
+    <nav class="modes" aria-label="使用模式">
+      <button type="button" aria-pressed="true" data-mode="quiz" aria-controls="quiz">✦　幫我決定</button>
+      <button type="button" aria-pressed="false" data-mode="list" aria-controls="list">⌕　自己找</button>
+    </nav>
+
+    <p id="loading" role="status">正在讀取店家…</p>
+    <section id="quiz" aria-label="推薦測驗" hidden>
+      <form id="quiz-form" class="panel quiz-panel">
+        <div class="quiz-heading">
+          <p id="step-count" class="eyebrow"></p>
+          <h2 id="step-title" tabindex="-1"></h2>
+          <p id="step-description" class="muted"></p>
+          <progress id="progress" max="5" value="1" aria-label="測驗進度"></progress>
+        </div>
+        <div id="quiz-questions"></div>
+        <div class="actions">
+          <button type="button" class="secondary" id="back" hidden>上一步</button>
+          <button type="submit" class="primary" id="next">下一步 →</button>
+        </div>
+      </form>
+      <section id="recommendations" hidden>
+        <div class="panel results-heading">
+          <p class="eyebrow">✦　你的午餐提案</p>
+          <h2 id="result-title" tabindex="-1">今天就吃這三家</h2>
+          <p id="relaxed" class="muted" hidden></p>
+          <div class="actions">
+            <button type="button" class="secondary" id="edit">修改答案</button>
+            <button type="button" class="primary" id="reroll">↻　再抽一次</button>
+          </div>
+        </div>
+        <p id="reroll-status" class="sr-only" role="status"></p>
+        <div id="result-cards" class="cards"></div>
+      </section>
+    </section>
+
+    <section id="list" aria-labelledby="list-title" hidden>
+      <form class="panel filters" id="filters">
+        <h2 id="list-title">附近店家</h2>
+        <label class="search"><span>搜尋店名</span><input id="search" type="search" placeholder="輸入店名" autocomplete="off"></label>
+        <fieldset id="meal-filter" hidden>
+          <legend>餐別</legend>
+          <div id="meals" class="chips"></div>
+        </fieldset>
+        <fieldset>
+          <legend>種類 <small>可多選</small></legend>
+          <div id="categories" class="chips"></div>
+        </fieldset>
+        <div class="selects">
+          <label>最低評分<select id="rating"><option value="">不限／無評分也可</option><option value="3.5">3.5 星</option><option value="4">4.0 星</option><option value="4.5">4.5 星</option></select></label>
+          <label>距離上限<select id="distance"></select></label>
+          <label>排序<select id="sort"><option value="distance">距離最近</option><option value="rating">評分高到低</option><option value="reviews">評論數最多</option><option value="name">店名</option></select></label>
+        </div>
+        <label class="check"><input type="checkbox" id="open-now"> <span id="open-label">僅看中午通常有開</span></label>
+      </form>
+      <div class="list-meta"><span id="count" role="status"></span><button type="button" class="text-button" id="reset">清除篩選</button></div>
+      <div id="list-cards" class="cards"></div>
+    </section>
+    <footer>距離與交通時間為直線估算，出發前請確認營業時間與路況。<br>口味、份量等標籤依店家類型推估，不是店家官方標示。</footer>
+  </main>
+  <div id="coming-soon" class="toast" hidden role="status"></div>
+</body>
+</html>
